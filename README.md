@@ -24,6 +24,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
     ```
 
 - [**Task 1 (Introduction)**](./Task1/README.md)
+
     For task 1, follow these instructions below:
     - Add your details following the previous example.
     - Respect the Json formatting
@@ -60,6 +61,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
         ![open a pull request](https://i0.wp.com/user-images.githubusercontent.com/3477155/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?resize=1024%2C512&ssl=1)
 
 - [**Task 2 (Socials)**](./Task2/README.md)
+
     Here, all you need is put your social media handles as follows:
     - Create a new branch for this task from the `master branch`, call it `task2`.
 
@@ -95,6 +97,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
     - Open a pull request from github.
 
 - [**Task 3 (Educational Experience)**](./Task3/README.md)
+
     Before anything else change the branch and make a newone from the `master branch`.
     ```bash
         git checkout master
@@ -115,7 +118,9 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
     git push
     ```
     - Open a pull request.
+    
 - [**Task 4 (Tech Stack)**](./Task4/README.md)
+
     - Create new branch from the `master branch`
         ```bash
         git checkout master

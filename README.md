@@ -6,6 +6,9 @@
 Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making five pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform. The GDSC University of Bamenda this year in getting into Hacktoberfest.
 
 
+>> Note: This repository will be respecting the [Hacktoberfest Code of Conduct](https://hacktoberfest.digitalocean.com/details#conduct), the [GDSC Code of Conduct](https://developers.google.com/community/gdsc/code-of-conduct) and [conventional commits](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
+
+
 ## Contributions
 
 There are 4 Tasks available and each task will be consider as valid by the Hacktoberfest team if properly carried out. Below are the tasks:

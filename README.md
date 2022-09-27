@@ -60,6 +60,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
         git push -u
 
         ```
+      >> Note: For any PR submitted before 1<sup>st</sup> of October, submit it as a draft pull request. Only PR opened as from early october are accepted by Hacktoberfest team. Thanks for undestanding.
     - Go to our your github and a pull request
         ![open a pull request](https://i0.wp.com/user-images.githubusercontent.com/3477155/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?resize=1024%2C512&ssl=1)
 

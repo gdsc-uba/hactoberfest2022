@@ -1,13 +1,18 @@
-## GDSC University Of Bamenda Hactoberfest 2022
+## Hactoberfest 2022
 
-![gdsc university of bamenda](https://media-exp1.licdn.com/dms/image/D4E3DAQGJmsFLc5oiAw/image-scale_191_1128/0/1664059808746?e=1664834400&v=beta&t=COBmGC3jmWdf1ZBbIgWAmktwDcFfV3y3hzMfBG9muLI)
+![hactoberfest 2022](https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg)
+
 ### Introduction
 
-Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making five pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform. The GDSC University of Bamenda this year in getting into Hacktoberfest.
+Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making five pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform.
 
 
->> Note: This repository will be respecting the [Hacktoberfest Code of Conduct](https://hacktoberfest.digitalocean.com/details#conduct), the [GDSC Code of Conduct](https://developers.google.com/community/gdsc/code-of-conduct) and [conventional commits](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
+>> Note: This repository will be respecting the [Hacktoberfest Code of Conduct](https://hacktoberfest.digitalocean.com/details#conduct), the [GDSC Code of Conduct](https://gdsc.community.dev/participation-terms/) and [conventional commits](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
 
+## Participating universities
+- University Of Buea
+- University of Yaounde
+- University of Bamenda
 
 ## Contributions
 
@@ -136,7 +141,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     <html>
         <head>
             <title>
-                GDSC University Of Bamenda
+                Hacktoberfest 2022
             </title>
         </head>
         <body>

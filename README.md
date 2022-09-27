@@ -11,7 +11,7 @@ Hacktoberfest is a month-long celebration of open source software. Anyone can pa
 
 ## Contributions
 
-There are 4 Tasks available and each task will be consider as valid by the Hacktoberfest team if properly carried out. Below are the tasks:
+There are 4 Tasks available and each task will be considered as valid by the Hacktoberfest team if properly carried out. Below are the tasks:
 
 - **Prerequisite**
     Fork and Make the project available locally. Run the command below for that:

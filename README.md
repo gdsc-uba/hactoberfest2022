@@ -30,7 +30,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
 
     For task 1, follow these instructions below:
     - Add your details following the previous example.
-    - Respect the Json formatting
+    - Respect the JSON formatting
         ```json
         [
             {
@@ -101,7 +101,7 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
 
 - [**Task 3 (Educational Experience)**](./Task3/README.md)
 
-    Before anything else change the branch and make a newone from the `master branch`.
+    Before anything else change the branch and make a new one from the `master branch`.
     ```bash
         git checkout master
 
@@ -171,6 +171,6 @@ There are 4 Tasks available and each task will be consider as valid by the Hackt
     git push
     ```
 
-This is a opensource project under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
+This is an opensource project under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 Happy hacking!!!

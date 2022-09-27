@@ -4,7 +4,7 @@
 
 ## Description
 
-For this task all required information is in the [Task4](Task4) folder. Present yourselr following the appropriate template.
+For this task all required information is in the [Task 4](Task4) folder. Present yourself following the appropriate template.
 
 ## Contribution
 
@@ -48,7 +48,7 @@ For this task all required information is in the [Task4](Task4) folder. Present 
         </body>
     </html>
 ```
-- Save your changes, commit, push and mnake a pull request.
+- Save your changes, commit, push and make a pull request.
     ```bash
     git commit -m "feat: added my techstack - yokwejuste"
 

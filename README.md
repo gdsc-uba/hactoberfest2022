@@ -60,7 +60,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     - Commit the change made and push
 
         ```bash
-        git commit -m "feat: added <username> as contributor"
+        git commit -am "feat: added <username> as contributor"
 
         git push -u
 
@@ -99,7 +99,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     ```
     - Commit these changes and make a pull request for this task.
         ```bash
-        git commit -m "feat: added <username> socials"
+        git commit -am "feat: added <username> socials"
 
         git push
         ```
@@ -122,7 +122,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     ```
     - Commit, push and make a pull request
     ```bash
-    git commit -m "feat: added educational background of <username>"
+    git commit -am "feat: added educational background of <username>"
 
     git push
     ```
@@ -172,7 +172,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     ```
     - Save your changes, commit, push and mnake a pull request.
     ```bash
-    git commit -m "feat: added my techstack - yokwejuste"
+    git commit -am "feat: added my techstack - yokwejuste"
 
     git push
     ```

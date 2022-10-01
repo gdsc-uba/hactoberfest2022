@@ -71,4 +71,10 @@ manjusha2912_socials = {
       "facebook": "",
       "telegram_handle": "",
   },
+ burnleydev1_socials = {
+      "twitter_handle": "bonalaisa",
+      "likedin_handle": "abongwa-bonalais-a4a34a1a9",
+      "facebook": "abongwa.bonalais",
+      "telegram_handle": "fxprodigy",
+  },	
 ]

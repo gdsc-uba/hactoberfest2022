@@ -96,4 +96,10 @@ dibyajittripathy_socials = {
       "facebook": "abongwa.bonalais",
       "telegram_handle": "fxprodigy",
   },	
+ MRDHRUV_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "dhruv-gupta-55034a228",
+      "facebook": "Dhruv Gupta",
+      "telegram_handle": "gdhruv0810",
+  },	
 ]

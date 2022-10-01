@@ -22,7 +22,16 @@
     "role": [
         "contributor"
     ]
-    },{
+    },
+    {
+    "name": "Shubham",
+    "github_handle": "shubh045",
+    "hacktoberfest_round": "second",
+    "role": [
+          "contributor"
+     ]
+    },
+    {
     "name": "Hari Om Sharma",
     "github_handle": "iamhariom0228",
     "hactoberfest_round": "first",

@@ -127,4 +127,11 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
+	{
+azohMu_socials = {
+  "twitter_handle": "Azoh",
+  "likedin_handle": "azoh",
+  "facebook": "azoh",
+  "telegram_handle": "",
+},
 ]

@@ -353,5 +353,11 @@
     "github_handle": "akwe-afriitech",
     "hacktoberfest_round": "second",
     "role": ["contributor maintainer"]
+  },
+  {
+    "name": "Ayush Kumar Nath",
+    "github_handle": "ayushknath",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
   }
 ]

@@ -189,4 +189,10 @@ mritul_socials= {
   "facebook": "",
   "telegram_handle": "",
 },
+azohMu_socials= {
+  "twitter_handle": "Azoh",
+  "likedin_handle": "Azoh",
+  "facebook": "Azoh",
+  "telegram_handle": "",
+},
 ]

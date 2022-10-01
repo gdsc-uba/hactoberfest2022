@@ -69,6 +69,12 @@
       "github_handle": "manjusha2912",
       "hacktoberfest_round": "first",
       "role": ["contributor"]
-    }
+    },
+    {
+      "name": "Ngumih Fien",
+      "github_handle": "Fienne",
+      "hacktoberfest_round": "third",
+      "role": ["maintainer"]
+    },
     
 ]

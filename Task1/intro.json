@@ -120,10 +120,10 @@
     "role": ["contributor", "maintainer"]
   },
   {
-     "name": "Lando Momo Paul",
-   "github_handle": "lando-paul",
-   "hacktoberfest_round": "first",
-   "role": ["contributor"]
+    "name": "Lando Momo Paul",
+    "github_handle": "lando-paul",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
   },
   {
     "name": "Krishnapal Mori ",
@@ -173,7 +173,7 @@
     "hacktoberfest_round": "third",
     "role": ["contributor"]
   },
-  
+
   {
     "name": "Ravi",
     "github_handle": "guptaravi540",
@@ -210,7 +210,7 @@
     "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
-   {
+  {
     "name": "Ayush Sarode",
     "github_handle": "AyushSarode",
     "hacktoberfest_round": "second",
@@ -221,12 +221,12 @@
     "github_handle": "JoydeepMallick",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-   },
+  },
   {
-  "name":"vishal singh",
-  "github_handle":"impetus007",
-  "hacktoberfest_round":"second",
-  "role":["contributor"]
+    "name": "vishal singh",
+    "github_handle": "impetus007",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   },
   {
     "name": "fisher Monk",
@@ -239,7 +239,6 @@
     "github_handle": "Sudhanshu-Sharma-22",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-
   },
   {
     "name": "Azoh Munoh",
@@ -248,7 +247,6 @@
     "role": ["contributor"]
   },
   {
-
     "name": "Divyanshi Pal",
     "github_handle": "Divyanshi2408",
     "hacktoberfest_round": "first",
@@ -270,10 +268,7 @@
     "name": "Ngong Marcel",
     "github_handle": "Marcel-star-ctrl",
     "hacktoberfest_round": "second",
-    "role": [
-      "maintainer",
-      "contributor"
-    ]
+    "role": ["maintainer", "contributor"]
   },
   {
     "name": "Adrian Gaile P. Singh",
@@ -305,7 +300,6 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
-
   {
     "name": "Nkemboh Isaiah",
     "github_handle": "isaiah-0914",
@@ -318,5 +312,4 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
-
 ]

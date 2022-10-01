@@ -304,12 +304,19 @@
     "github_handle": "Mousam00",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
 
   {
     "name": "Nkemboh Isaiah",
     "github_handle": "isaiah-0914",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Ansh Goyal",
+    "github_handle": "Ansh1693",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
   }
+
 ]

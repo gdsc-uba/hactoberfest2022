@@ -1,4 +1,10 @@
 [
+    spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",
         "likedin_handle": "rupali-codes",
@@ -71,4 +77,10 @@ manjusha2912_socials = {
       "facebook": "",
       "telegram_handle": "",
   },
+ burnleydev1_socials = {
+      "twitter_handle": "bonalaisa",
+      "likedin_handle": "abongwa-bonalais-a4a34a1a9",
+      "facebook": "abongwa.bonalais",
+      "telegram_handle": "fxprodigy",
+  },	
 ]

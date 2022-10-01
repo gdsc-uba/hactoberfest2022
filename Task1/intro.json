@@ -354,4 +354,10 @@
     "hacktoberfest_round": "second",
     "role": ["contributor maintainer"]
   }
+  {
+    "name": "Hritik Maheshwari",
+    "github_handle": "CRAZYGEEKS04",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
+  }
 ]

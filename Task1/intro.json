@@ -1,90 +1,122 @@
-
 [
-    {
-        "name": "Jaydeep Ghevariya",
-        "github_handle": "JYDP02",
-        "hacktoberfest_round": "second",
-        "role": ["contributor]
-    },
-    {
-        "name": "Rupali Haldiya",
-        "github_handle": "rupali-codes",
-        "hacktoberfest_round": "first",
-        "role": [
-            "contributor"
-        ]
-    },
-    {
-        "name": "Yogesh Gaur",
-        "github_handle": "imyogeshgaur",
-        "hacktoberfest_round": "first",
-        "role": ["contributor"]
-    },
-    {
+  {
+    "name": "Jaydeep Ghevariya",
+    "github_handle": "JYDP02",
+    "hacktoberfest_round": "second",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Rupali Haldiya",
+    "github_handle": "rupali-codes",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Yogesh Gaur",
+    "github_handle": "imyogeshgaur",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
     "name": "Nyong Godwill",
     "github_handle": "godsakani",
     "hacktoberfest_round": "second",
-    "role": "contributor"]
-    },
-    {
+    "role": [
+      "contributor"
+    ]
+  },
+  {
     "name": "Shubham",
     "github_handle": "shubh045",
     "hacktoberfest_round": "second",
-    "role": ["contributor"]
-    },
-    {
+    "role": [
+      "contributor"
+    ]
+  },
+  {
     "name": "Hari Om Sharma",
     "github_handle": "iamhariom0228",
     "hactoberfest_round": "first",
-    "role": ["contributor]
-    },
-    {
+    "role": [
+      "contributor"
+    ]
+  },
+  {
     "name": "Abdullahi Yunus",
     "github_handle": "Abdulkbk",
     "hacktoberfest_round": "first",
-    "role": ["contributor"]
-
-    },
-    {
-      "name": "Renan Miranda",
-      "github_handle": "renanlmiranda",
-      "hacktoberfest_round": "second",
-      "role": ["contributor"]
-    },
-    {
-      "name": "Shruti Mohanty",
-      "github_handle": "shruti0419",
-      "hacktoberfest_round": "first",
-      "role": ["contributor"]
-    },
-    {
-      "name": "Sudipta Pradhan",
-      "github_handle": "sudiptapradhan",
-      "hacktoberfest_round": "first",
-      "role": ["contributor"]
-    },
-    {
-      "name": "Manjusha Iyer",
-      "github_handle": "manjusha2912",
-      "hacktoberfest_round": "first",
-      "role": ["contributor"]
-    },
-    {
-      "name": "Aravindh Sivalingam",
-      "github_handle": "Aravindhsiva",
-      "hacktoberfest_round": "first",
-      "role": ["contributor"]
-    },
-    {
-        "name": "Gourav Chawla",
-        "github_handle": "gouravchawla334",
-        "hacktoberfest_round": "first",
-        "role": ["contributor"]
-    },
-    {
-      "name": "Nishant Ola",
-      "github_handle": "ola-nishant",
-      "hacktoberfest_round": "first",
-      "role": ["contributor"]
-    }
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Renan Miranda",
+    "github_handle": "renanlmiranda",
+    "hacktoberfest_round": "second",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Shruti Mohanty",
+    "github_handle": "shruti0419",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Sudipta Pradhan",
+    "github_handle": "sudiptapradhan",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Manjusha Iyer",
+    "github_handle": "manjusha2912",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Aravindh Sivalingam",
+    "github_handle": "Aravindhsiva",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Gourav Chawla",
+    "github_handle": "gouravchawla334",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Nishant Ola",
+    "github_handle": "ola-nishant",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
+    "name": "Dhruv Gupta",
+    "github_handle": "MR-DHRUV",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  }
 ]

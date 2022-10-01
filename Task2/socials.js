@@ -194,5 +194,11 @@ YashGupta_socials= {
   "likedin_handle": "yash-gupta-1106",
   "facebook": "Yash Gupta",
   "telegram_handle": "",
+  },
+azohMu_socials= {
+  "twitter_handle": "Azoh",
+  "likedin_handle": "Azoh",
+  "facebook": "Azoh",
+  "telegram_handle": "",
 },
 ]

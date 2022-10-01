@@ -260,6 +260,15 @@
     "role": ["contributor"]
   },
   {
+    "name": "Ngong Marcel",
+    "github_handle": "Marcel-star-ctrl",
+    "hacktoberfest_round": "second",
+    "role": [
+      "maintainer",
+      "contributor"
+    ]
+  },
+  {
     "name": "Adrian Gaile P. Singh",
     "github_handle": "codedrian",
     "hacktoberfest_round": "first",

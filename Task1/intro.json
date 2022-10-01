@@ -169,8 +169,8 @@
     "role": ["contributor"]
   },
   {
-    "name": "Nisha Chawla",
-    "github_handle": "NishaChawla18",
+    "name": "Hrishikesh Sunil Ghule",
+    "github_handle": "hrishikesh-g",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
@@ -178,6 +178,18 @@
     "name": "Vansh Goel",
     "github_handle": "vansh-goel",
     "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Kshitij kumar",
+    "github_handle": "Kshitij-10",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Agien Petra",
+    "github_handle": "petraAG",
+    "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
 ]

@@ -96,5 +96,13 @@
              "Maintainer"
     ]
     
-    }
+    },
+    {
+            "name": "Suraj Kumar",
+            "github_handle": "jarus1029",
+            "hacktoberfest_round": "second",
+            "role": [
+                "contributor"
+            ]
+     }
 ]

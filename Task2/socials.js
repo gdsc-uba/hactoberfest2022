@@ -40,11 +40,17 @@
       "likedin_handle": "Ngumih Fien",
       "facebook": "Ngumih Fien",
       "telegram_handle": "Fien"
-    }
+    },
     gouravchawla334_socials = {
       "twitter_handle": "",
       "likedin_handle": "gourav-chawla",
       "facebook": "gouravchawla334",
       "telegram_handle": ""
-    }
+    },
+  Abdulkbk_socials = {
+  	"twitter_handle": "Thevelopher",
+  	"likedin_handle": "abdulkbk",
+  	"instagram": "Dev_zeal",
+  	"telegram_handle": "abd_kbk",
+},
 ]

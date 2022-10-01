@@ -12,5 +12,6 @@
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["State Institute of engineering and Technology ", "Nilokheri", "2018", "present"],
     ["Ahmadu Bello University", "Bachelor of Engineering", "2018", "present"],
+    ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
 ]

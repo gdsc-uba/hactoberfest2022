@@ -40,4 +40,5 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["University Of Mauritius", "Faculty Of Information Communication and Digital Technologies", "2018", "2021"],
 ]

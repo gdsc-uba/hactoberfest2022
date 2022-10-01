@@ -201,4 +201,10 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+Ansh1693_socials={
+  "twitter_handle": "goyalansh16",
+  "likedin_handle": "anshgoyal16",
+  "facebook": "Ansh Goyal",
+  "telegram_handle": "",
+}
 ]

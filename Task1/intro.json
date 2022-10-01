@@ -247,6 +247,15 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
+  {
+    "name": "Ngong Marcel",
+    "github_handle": "Marcel-star-ctrl",
+    "hacktoberfest_round": "second",
+    "role": [
+      "maintainer",
+      "contributor"
+    ]
+  },
 
 
 ]

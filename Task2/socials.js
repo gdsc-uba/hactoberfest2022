@@ -35,4 +35,10 @@
       "facebook": "",
       "telegram_handle": ""
     }
+    gouravchawla334_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "gourav-chawla",
+      "facebook": "gouravchawla334",
+      "telegram_handle": ""
+    }
 ]

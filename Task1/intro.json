@@ -7,4 +7,68 @@
             "contributor"
         ]
     },
+    {
+        "name": "Yogesh Gaur",
+        "github_handle": "imyogeshgaur",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    },
+    {
+    "name": "Nyong Godwill",
+    "github_handle": "godsakani",
+    "hacktoberfest_round": "second",
+    "role": [
+        "contributor"
+    ]
+    },
+    {
+    "name": "Shubham",
+    "github_handle": "shubh045",
+    "hacktoberfest_round": "second",
+    "role": [
+          "contributor"
+     ]
+    },
+    {
+    "name": "Hari Om Sharma",
+    "github_handle": "iamhariom0228",
+    "hactoberfest_round": "first",
+    "role": [
+        "contributor"
+    ]
+    },
+    {
+    "name": "Abdullahi Yunus",
+    "github_handle": "Abdulkbk",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+
+    },
+    {
+      "name": "Renan Miranda",
+      "github_handle": "renanlmiranda",
+      "hacktoberfest_round": "second",
+      "role": ["contributor"]
+    },
+    {
+      "name": "Shruti Mohanty",
+      "github_handle": "shruti0419",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    },
+    {
+      "name": "Sudipta Pradhan",
+      "github_handle": "sudiptapradhan",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    },
+    {
+      "name": "Manjusha Iyer",
+      "github_handle": "manjusha2912",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    }
+    
 ]

@@ -54,6 +54,12 @@
       "facebook": "Ngumih Fien",
       "telegram_handle": "Fien"
     },
+    Kshitj10_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "kshitij1099",
+      "facebook": "",
+      "telegram_handle": ""
+    },
     gouravchawla334_socials = {
       "twitter_handle": "",
       "likedin_handle": "gourav-chawla",
@@ -126,5 +132,17 @@ impetus007_socials = {
   "likedin_handle": "impetus",
   "facebook": "vishal2219singh",
   "telegram_handle": "",
+},
+lando-paul = {
+  "twitter_handle": "nasty_poems",
+  "likedin_handle": "lando-momo-paul-junior-76b413229",
+  "facebook": "",
+  "telegram_handle": "Fuckthesystem47",
+},
+fisher_socials = {
+  "twitter_handle": "fishermonk0",
+  "likedin_handle": "fishermonk",
+  "facebook": "fishermonk",
+  "telegram_handle": "@fish4443",
 },
 ]

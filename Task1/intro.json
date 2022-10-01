@@ -226,7 +226,7 @@
     "name": "SudhanshuSharma",
     "github_handle": "Sudhanshu-Sharma-22",
     "hacktoberfest_round": "first",
-    "role": ["contributor", "maintainer"]
+    "role": ["contributor"]
 
   },
   {
@@ -234,5 +234,11 @@
     "github_handle": "azohMu",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Steve Yonkeu",
+    "github_handle": "yokwejuste",
+    "hacktoberfest_round": "third",
+    "role": ["contributor", "maintainer"]
   },
 ]

@@ -107,5 +107,11 @@ dibyajittripathy_socials = {
       "likedin_handle": "dhruv-gupta-55034a228",
       "facebook": "Dhruv Gupta",
       "telegram_handle": "gdhruv0810",
-  },	
+  },
+  andrew21_mch_socials = {
+    "twitter_handle": "nfonandrew73",
+    "likedin_handle": "nfon-andrew-7703a11a0",
+    "facebook": " ",
+    "telegram_handle": "SnrAndy",
+},		
 ]

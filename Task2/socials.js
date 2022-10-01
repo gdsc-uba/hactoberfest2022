@@ -65,4 +65,10 @@ olanishant_socials = {
   "instagram": "nishant_ola",
   "telegram_handle": "nishant_ola22",
 },
+manjusha2912_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "Manjusha Iyer",
+      "facebook": "",
+      "telegram_handle": "",
+  },
 ]

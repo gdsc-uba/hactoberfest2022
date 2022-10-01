@@ -21,5 +21,6 @@
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],   
+    ["University of Bamenda", "NAHPI", "2019", "present"],      
     ["Dr. BC Roy Engineering College","Bachelor of Technology","2021","present"],
 ]

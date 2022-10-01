@@ -84,6 +84,12 @@ manjusha2912_socials = {
       "facebook": "",
       "telegram_handle": "",
   },
+dibyajittripathy_socials = {
+      "twitter_handle": "djWarrioR1997",
+      "likedin_handle": "Dibyajit Tripathy",
+      "facebook": "",
+      "telegram_handle": "Rhaegal",
+  },
  burnleydev1_socials = {
       "twitter_handle": "bonalaisa",
       "likedin_handle": "abongwa-bonalais-a4a34a1a9",

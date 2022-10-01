@@ -3,7 +3,7 @@
 
 ## Description
 
-For this task all required information is in the [Task1](Task1) folder. Present yourselr following the appropriate template.
+For this task all required information is in the [Task1](Task1) folder. Present yourself following the appropriate template.
 
 ## Contribution
 

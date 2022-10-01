@@ -207,5 +207,12 @@ isaiah0914_socials= {
   "telegram_handle": "@isaiahnkemboh",
   "instagram": "isaiah_nkemboh",
   "facebook" : "Isaiah Nkemboh",
+  }, 
+AchaRhaah_socials= {
+  "twitter_handle": "AchaAchubang",
+  "likedin_handle": "Acha Achubang",
+  "telegram_handle": "@Acha Rha'ah",
+  "instagram": "Acha Rha'ah",
+  "facebook" : "Acha Rha'ah",
 }, 
 ] 

@@ -353,5 +353,11 @@
     "github_handle": "akwe-afriitech",
     "hacktoberfest_round": "second",
     "role": ["contributor maintainer"]
+  },
+  {
+    "name": "Acha Rha'ah Achubang",
+    "github_handle": "AchaRhaah",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
   }
 ]

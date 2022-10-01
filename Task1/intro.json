@@ -76,5 +76,11 @@
       "hacktoberfest_round": "third",
       "role": ["maintainer"]
     },
+    {
+        "name": "Gourav Chawla",
+        "github_handle": "gouravchawla334",
+        "hacktoberfest_round": "first",
+        "role": ["contributor"]
+    },
     
 ]

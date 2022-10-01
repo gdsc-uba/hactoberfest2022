@@ -38,4 +38,6 @@
     ["Indian Institute of Information Technology Allahabad", "BTech", "2021", "present"],
     ["Siantou Higher Institute of Technology", "B.Tech software Engineering", "2021", "present"],
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
+    ["University Ninth of July","Bachelor of Engineering","2017","2021"],
+    ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
 ]

@@ -181,6 +181,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Vaibhav Arora",
+    "github_handle": "VaibhavArora314",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Vansh Goel",
     "github_handle": "vansh-goel",
     "hacktoberfest_round": "first",
@@ -236,6 +242,12 @@
     "role": ["contributor"]
   },
   {
+
+    "name": "Divyanshi Pal",
+    "github_handle": "Divyanshi2408",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
     "name": "Steve Yonkeu",
     "github_handle": "yokwejuste",
     "hacktoberfest_round": "third",
@@ -256,6 +268,16 @@
       "contributor"
     ]
   },
-
-
+  {
+    "name": "Adrian Gaile P. Singh",
+    "github_handle": "codedrian",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Mritul Senthilkumar",
+    "github_handle": "mritul",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  }
 ]

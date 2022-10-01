@@ -102,5 +102,11 @@
       "github_handle": "Krishnapalmori301",
       "hacktoberfest_round": "first",
       "role": ["contributor"]
+    },
+      {
+      "name": "Ndi Lionel",
+      "github_handle": "spykelionel",
+      "hacktoberfest_round": "second",
+      "role": ["contributor", "maintainer"]
     }
 ]

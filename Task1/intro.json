@@ -241,4 +241,12 @@
     "hacktoberfest_round": "third",
     "role": ["contributor", "maintainer"]
   },
+  {
+    "name": "aditya singh",
+    "github_handle": "adrzxxx",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+
+
 ]

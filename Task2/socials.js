@@ -5,6 +5,13 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+    baimamboukar_socials = {
+	"twitter_handle": "baimamjj",
+	"likedin_handle": "baimamboukar",
+	"telegram_handle": "bsquarejj",
+	"instagram": "baimamboukar"
+     },
+
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",
         "likedin_handle": "rupali-codes",

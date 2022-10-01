@@ -201,4 +201,11 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
-]
+isaiah0914_socials= {
+  "twitter_handle": "IsaiahNkemboh",
+  "likedin_handle": "Nkemboh isaiah",
+  "telegram_handle": "@isaiahnkemboh",
+  "instagram": "isaiah_nkemboh",
+  "facebook" : "Isaiah Nkemboh",
+}, 
+] 

@@ -34,5 +34,11 @@
       "likedin_handle": "renanlmiranda",
       "facebook": "",
       "telegram_handle": ""
-    }
+    },
+    olanishant_socials = {
+        "twitter_handle": "NishantOla22",
+        "likedin_handle": "nishant-ola-490712228",
+        "facebook": "Nishant Ola",
+        "telegram_handle": "nishant_ola22"
+      }
 ]

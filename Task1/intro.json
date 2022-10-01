@@ -29,5 +29,11 @@
     "role": [
         "contributor"
     ]
-  },
+    },
+    {
+    "name": "Abdullahi Yunus",
+    "github_handle": "Abdulkbk",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  }
 ]

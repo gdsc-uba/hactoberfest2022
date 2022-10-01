@@ -241,4 +241,10 @@
     "hacktoberfest_round": "third",
     "role": ["contributor", "maintainer"]
   },
+  {
+    "name": "Devesh Singh",
+    "github_handle": "Devesh1602",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
 ]

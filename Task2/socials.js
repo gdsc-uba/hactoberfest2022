@@ -208,4 +208,13 @@ isaiah0914_socials= {
   "instagram": "isaiah_nkemboh",
   "facebook" : "Isaiah Nkemboh",
 }, 
+Earl_Millen= {
+  "twitter_handle": "earlzeus237",
+  "likedin_handle": "Earl Millen Toh Akwe",
+  "telegram_handle": "@millentoh",
+  "instagram": "bosszeus237",
+  "facebook" : "Earl Millen",
+}, 
+
+	
 ] 

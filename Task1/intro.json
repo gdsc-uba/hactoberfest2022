@@ -247,6 +247,10 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
-
-
+  {
+    "name": "Mritul Senthilkumar",
+    "github_handle": "mritul",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  }
 ]

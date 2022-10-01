@@ -53,4 +53,10 @@
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
 },
+olanishant_socials = {
+  "twitter_handle": "NishantOla22",
+  "likedin_handle": "nishant-ola-490712228",
+  "instagram": "nishant_ola",
+  "telegram_handle": "nishant_ola22",
+},
 ]

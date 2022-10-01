@@ -1,4 +1,10 @@
 [
+    spykelionel_socials = {
+        "twitter_handle": "spykelionel",
+        "likedin_handle": "ndilionel6",
+        "telegram_handle": "spykelionel",
+        "instagram": "spykelionel"
+    },
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",
         "likedin_handle": "rupali-codes",
@@ -53,4 +59,28 @@
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
 },
+  amanfangeria980_socials={
+	"twitter_handle": "aman_fangeria",
+	"linkedin_handle": "amanfangeria",
+	"instagram": "amanfangeria",
+	"telegram_handle": "randombeo"
+  },
+olanishant_socials = {
+  "twitter_handle": "NishantOla22",
+  "likedin_handle": "nishant-ola-490712228",
+  "instagram": "nishant_ola",
+  "telegram_handle": "nishant_ola22",
+},
+manjusha2912_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "Manjusha Iyer",
+      "facebook": "",
+      "telegram_handle": "",
+  },
+ burnleydev1_socials = {
+      "twitter_handle": "bonalaisa",
+      "likedin_handle": "abongwa-bonalais-a4a34a1a9",
+      "facebook": "abongwa.bonalais",
+      "telegram_handle": "fxprodigy",
+  },	
 ]

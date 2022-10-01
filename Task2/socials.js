@@ -113,5 +113,11 @@ dibyajittripathy_socials = {
     "likedin_handle": "nfon-andrew-7703a11a0",
     "facebook": " ",
     "telegram_handle": "SnrAndy",
-},		
+  },	
+  NishaChawla18_socials = {
+    "twitter_handle": "",
+    "likedin_handle": "nishachawla18",
+    "facebook": " ",
+    "telegram_handle": "",
+   },
 ]

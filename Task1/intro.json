@@ -199,6 +199,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Joydeep Mallick",
+    "github_handle": "JoydeepMallick",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+   },
+{
   "name":"vishal singh",
   "github_handle":"impetus007",
   "hacktoberfest_round":"second",
@@ -211,4 +217,12 @@
     "role": ["contributor"]
 
   },
+  {
+    "name": "SudhanshuSharma",
+    "github_handle": "Sudhanshu-Sharma-22",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
+
+  },
+   
 ]

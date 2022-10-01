@@ -301,8 +301,8 @@
     "role": ["contributor"]
   },
   {
-    "name":"Navapallav",
-    "github_handle":"raj-hero",
+    "name": "Navapallav",
+    "github_handle": "raj-hero",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
@@ -329,8 +329,8 @@
     "github_handle": "sooraj-gk",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-    },
-    {
+  },
+  {
     "name": "Fotsing Tchoupe Mathieu Boris",
     "github_handle": "Fotsingboris",
     "hacktoberfest_round": "first",
@@ -341,5 +341,11 @@
     "github_handle": "kartikkc",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Earl Millen",
+    "github_handle": "akwe-afriitech",
+    "hacktoberfest_round": "second",
+    "role": ["contributor maintainer"]
   }
 ]

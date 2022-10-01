@@ -36,4 +36,5 @@
     ["vellore institute of technology","bachelor of engineering " , "2020" ,"present"],
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["Indian Institute of Information Technology Allahabad", "BTech", "2021", "present"],
+    ["Siantou Higher Institute of Technology", "B.Tech software Engineering", "2021", "present"],
 ]

@@ -20,5 +20,6 @@
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
-    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
+    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"], 
+    ["Government College of Engineering Nagpur, Computer Science", "Bachelor of Technology", "2020", "present"],       
 ]

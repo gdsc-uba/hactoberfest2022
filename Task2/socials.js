@@ -189,6 +189,12 @@ mritul_socials= {
   "facebook": "",
   "telegram_handle": "",
 },
+YashGupta_socials= {
+  "twitter_handle": "yashg_116",
+  "likedin_handle": "yash-gupta-1106",
+  "facebook": "Yash Gupta",
+  "telegram_handle": "",
+  },
 azohMu_socials= {
   "twitter_handle": "Azoh",
   "likedin_handle": "Azoh",

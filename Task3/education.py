@@ -1,4 +1,5 @@
 [
+    ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
     ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
     ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],
     ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],
@@ -21,4 +22,5 @@
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],   
     ["University of Bamenda", "NAHPI", "2019", "present"],      
+    ["Dr. BC Roy Engineering College","Bachelor of Technology","2021","present"],
 ]

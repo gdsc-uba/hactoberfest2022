@@ -148,5 +148,11 @@
     "github_handle": "kshitijv256",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Nfon Andrew",
+    "github_handle": "andrew21-mch",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
   }
 ]

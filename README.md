@@ -177,6 +177,10 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
     git push
     ```
 
+## Thanks to all our contributors
+
+<img src = "https://contrib.rocks/image?repo=Developer-Student-Clubs-UBa/hactoberfest2022"/>
+
 This is an opensource project under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 Happy hacking!!!

@@ -173,12 +173,17 @@
     "github_handle": "hrishikesh-g",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
-
-]
+  },
+  {
+    "name": "Kshitij kumar",
+    "github_handle": "Kshitij-10",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
   {
     "name": "Agien Petra",
     "github_handle": "petraAG",
     "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
+]

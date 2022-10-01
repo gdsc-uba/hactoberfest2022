@@ -63,6 +63,15 @@
       "github_handle": "sudiptapradhan",
       "hacktoberfest_round": "first",
       "role": ["contributor"]
+    },
+    {
+        "name": "Heman Ekom",
+        "github_handle": "ECOMAN003",
+        "hacktoberfest_round": "first",
+        "role": [
+            "maintainer",
+            "contributor"
+        ]
     }
     
 ]

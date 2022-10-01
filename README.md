@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making five pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform.
+Hacktoberfest is a month-long celebration of open source software. Anyone can participate by making four pull requests to public repositories on GitHub. The goal is to get more people involved in contributing to open source projects, and to learn more about the GitHub platform.
 
 
 >> Note: This repository will be respecting the [Hacktoberfest Code of Conduct](https://hacktoberfest.digitalocean.com/details#conduct), the [GDSC Code of Conduct](https://gdsc.community.dev/participation-terms/) and [conventional commits](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
@@ -67,8 +67,6 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         ```
       >> Note: For any PR submitted before 1<sup>st</sup> of October, submit it as a draft pull request. Only PR opened as from early october are accepted by Hacktoberfest team. Thanks for undestanding.
     - Go to our your github and a pull request
-        ![open a pull request](https://i0.wp.com/user-images.githubusercontent.com/3477155/52671177-5d0e0100-2ee8-11e9-8645-bdd923b7d93b.gif?resize=1024%2C512&ssl=1)
-
 - [**Task 2 (Socials)**](./Task2/README.md)
 
     Here, all you need is put your social media handles as follows:
@@ -176,6 +174,10 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
 
     git push
     ```
+
+## Thanks to all our contributors
+
+<img src = "https://contrib.rocks/image?repo=Developer-Student-Clubs-UBa/hactoberfest2022"/>
 
 This is an opensource project under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 

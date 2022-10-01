@@ -139,10 +139,16 @@ fisher_socials = {
   "facebook": "fishermonk",
   "telegram_handle": "@fish4443",
 }
-SudhanshuSharma= {
+SudhanshuSharma_socials= {
   "twitter_handle": "Sudhanshu226922",
   "likedin_handle": "Sudhanshu Sharma",
   "facebook": "",
   "telegram_handle": "@cpt_n3m0_22",
+},
+yokwejuste_socials= {
+  "twitter_handle": "yokwejuste",
+  "likedin_handle": "yokwejuste",
+  "facebook": "yokwejuste5013",
+  "telegram_handle": "@googledevz",
 },
 ]

@@ -217,4 +217,12 @@
     "role": ["contributor"]
 
   },
+  {
+    "name": "SudhanshuSharma",
+    "github_handle": "Sudhanshu-Sharma-22",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
+
+  },
+   
 ]

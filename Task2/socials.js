@@ -157,4 +157,10 @@ yokwejuste_socials= {
   "facebook": "yokwejuste5013",
   "telegram_handle": "@googledevz",
 },
+adrzxxx_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "aditya-singh-04a74b19a",
+  "facebook": "",
+  "telegram_handle": "",
+},
 ]

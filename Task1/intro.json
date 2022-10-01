@@ -11,33 +11,25 @@
         "name": "Yogesh Gaur",
         "github_handle": "imyogeshgaur",
         "hacktoberfest_round": "first",
-        "role": [
-            "contributor"
-        ]
+        "role": ["contributor"]
     },
     {
     "name": "Nyong Godwill",
     "github_handle": "godsakani",
     "hacktoberfest_round": "second",
-    "role": [
-        "contributor"
-    ]
+    "role": "contributor"]
     },
     {
     "name": "Shubham",
     "github_handle": "shubh045",
     "hacktoberfest_round": "second",
-    "role": [
-          "contributor"
-     ]
+    "role": ["contributor"]
     },
     {
     "name": "Hari Om Sharma",
     "github_handle": "iamhariom0228",
     "hactoberfest_round": "first",
-    "role": [
-        "contributor"
-    ]
+    "role": ["contributor]
     },
     {
     "name": "Abdullahi Yunus",
@@ -73,6 +65,12 @@
     {
       "name": "Aravindh Sivalingam",
       "github_handle": "Aravindhsiva",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    },
+    {
+      "name": "Nishant Ola",
+      "github_handle": "ola-nishant",
       "hacktoberfest_round": "first",
       "role": ["contributor"]
     }

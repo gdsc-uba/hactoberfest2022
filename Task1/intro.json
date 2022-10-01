@@ -353,5 +353,14 @@
     "github_handle": "akwe-afriitech",
     "hacktoberfest_round": "second",
     "role": ["contributor maintainer"]
+  },
+  
+  {
+    "name": "Yannik Kadjie",
+    "github_handle": "main-c",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
   }
+  
+
 ]

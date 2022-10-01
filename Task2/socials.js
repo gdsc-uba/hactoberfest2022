@@ -145,4 +145,10 @@ SudhanshuSharma= {
   "facebook": "",
   "telegram_handle": "@cpt_n3m0_22",
 },
+Divyanshi2408_socials = {
+  "twitter_handle": "Divyanshipal24",
+  "likedin_handle": "divyanshi-pal-b66133210",
+  "facebook": "",
+  "telegram_handle": "Divyanshi pal",
+}
 ]

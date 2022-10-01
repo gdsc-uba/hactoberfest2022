@@ -4,7 +4,7 @@
         "name": "Jaydeep Ghevariya",
         "github_handle": "JYDP02",
         "hacktoberfest_round": "second",
-        "role": ["contributor]
+        "role": ["contributor"]
     },
     {
         "name": "Rupali Haldiya",
@@ -24,7 +24,7 @@
     "name": "Nyong Godwill",
     "github_handle": "godsakani",
     "hacktoberfest_round": "second",
-    "role": "contributor"]
+    "role": ["contributor"]
     },
     {
     "name": "Shubham",
@@ -36,7 +36,7 @@
     "name": "Hari Om Sharma",
     "github_handle": "iamhariom0228",
     "hactoberfest_round": "first",
-    "role": ["contributor]
+    "role": ["contributor"]
     },
     {
     "name": "Abdullahi Yunus",
@@ -95,6 +95,13 @@
              "contributor"
              "Maintainer"
     ]
-    
+    },
+    {
+            "name": "Suraj Kumar",
+            "github_handle": "jarus1029",
+            "hacktoberfest_round": "second",
+            "role": [
+                "contributor"
+            ]
     }
 ]

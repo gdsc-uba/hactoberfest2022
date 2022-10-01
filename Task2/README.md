@@ -4,7 +4,7 @@ Hacktoberfest 2022 - Task 2
 
 ## Description
 
-For this task all required information is in the [Task2](Task2) folder. Present yourselr following the appropriate template.
+For this task all required information is in the [Task2](Task2) folder. Present yourself following the appropriate template.
 
 ## Contribution
 

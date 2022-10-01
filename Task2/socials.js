@@ -22,5 +22,11 @@
       "likedin_handle": "renanlmiranda",
       "facebook": "",
       "telegram_handle": ""
+    },
+   manjusha2912_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "Manjusha Iyer",
+      "facebook": "",
+      "telegram_handle": ""
     }
 ]

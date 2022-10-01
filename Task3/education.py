@@ -39,4 +39,5 @@
     ["Siantou Higher Institute of Technology", "B.Tech software Engineering", "2021", "present"],
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
+    ["University of Yaounde I","Bachelor of computer science","2019","2022"],
 ]

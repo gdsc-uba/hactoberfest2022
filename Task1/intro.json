@@ -96,5 +96,14 @@
              "Maintainer"
     ]
     
+    },
+    {
+    "name": "Baimam Boukar Jean Jacques",
+    "github_handle": "baimamboukar",
+    "hacktoberfest_round": "second",
+    "role":[
+             "contributor",
+             "maintainer"]
+    
     }
 ]

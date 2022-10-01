@@ -53,6 +53,12 @@
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
 },
+  amanfangeria980_socials={
+	"twitter_handle": "aman_fangeria",
+	"linkedin_handle": "amanfangeria",
+	"instagram": "amanfangeria",
+	"telegram_handle": "randombeo"
+  },
 olanishant_socials = {
   "twitter_handle": "NishantOla22",
   "likedin_handle": "nishant-ola-490712228",

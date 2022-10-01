@@ -115,10 +115,23 @@
     "name": "Abongwa Bonalais Amahnui",
     "github_handle": "Burnleydev1",
     "hacktoberfest_round": "third",
-    "role": [
-      "contributor" , "Maintainer"
-    ]
-  },
+    "role":[
+             "contributor"
+             "Maintainer"
+    ]  
+    },
+      {
+      "name": "Krishnapal Mori ",
+      "github_handle": "Krishnapalmori301",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    },
+      {
+      "name": "Ndi Lionel",
+      "github_handle": "spykelionel",
+      "hacktoberfest_round": "second",
+      "role": ["contributor", "maintainer"]
+   },
   {
     "name": "Krishnapal Mori ",
     "github_handle": "Krishnapalmori301",
@@ -135,6 +148,5 @@
       "contributor"
     ]
   }
-
 ]
 

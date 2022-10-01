@@ -114,6 +114,12 @@
     "role": ["contributor", "maintainer"]
   },
   {
+     "name": "Lando Momo Paul",
+   "github_handle": "lando-paul",
+   "hacktoberfest_round": "first"
+   "role": ["contributor"]
+  },
+  {
     "name": "Krishnapal Mori ",
     "github_handle": "Krishnapalmori301",
     "hacktoberfest_round": "first",
@@ -191,5 +197,18 @@
     "github_handle": "petraAG",
     "hacktoberfest_round": "second",
     "role": ["contributor"]
+  },
+  {
+  "name":"vishal singh",
+  "github_handle":"impetus007",
+  "hacktoberfest_round":"second",
+  "role":["contributor"]
+  },
+  {
+    "name": "fisher Monk",
+    "github_handle": "y)kw3ju5t3",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+
   },
 ]

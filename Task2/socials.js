@@ -119,5 +119,12 @@ dibyajittripathy_socials = {
     "likedin_handle": "agienpetra",
     "facebook": "agienpetra ",
     "telegram_handle": "PDoc",
+},	
+{
+impetus007_socials = {
+  "twitter_handle": "Vishal_it_is",
+  "likedin_handle": "impetus",
+  "facebook": "vishal2219singh",
+  "telegram_handle": "",
 },
 ]

@@ -53,22 +53,18 @@
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
 },
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
+
   amanfangeria980_socials={
 	"twitter_handle": "aman_fangeria",
 	"linkedin_handle": "amanfangeria",
 	"instagram": "amanfangeria",
 	"telegram_handle": "randombeo"
   },
->>>>>>> 4b5821c4eb30e1452038ebf95b16ff1e3cdedb2c
+
 olanishant_socials = {
   "twitter_handle": "NishantOla22",
   "likedin_handle": "nishant-ola-490712228",
   "instagram": "nishant_ola",
   "telegram_handle": "nishant_ola22",
 },
->>>>>>> 69380545b378a3083f0f4d436c9b4448e6ee6d9e
 ]

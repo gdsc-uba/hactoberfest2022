@@ -36,6 +36,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Madhav Gupta",
+    "github_handle": "madhavgupta07",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
+  {
     "name": "Shubham",
     "github_handle": "shubh045",
     "hacktoberfest_round": "second",
@@ -116,7 +122,7 @@
   {
      "name": "Lando Momo Paul",
    "github_handle": "lando-paul",
-   "hacktoberfest_round": "first"
+   "hacktoberfest_round": "first",
    "role": ["contributor"]
   },
   {
@@ -248,6 +254,7 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
+  {
     "name": "Steve Yonkeu",
     "github_handle": "yokwejuste",
     "hacktoberfest_round": "third",

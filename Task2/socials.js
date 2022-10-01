@@ -12,12 +12,6 @@
 	"instagram": "baimamboukar"
      },
 
-	generalchauhan_socials = {
-	"twitter_handle": "thecrazychauhan",
-	"likedin_handle": "abhinab",
-	"telegram_handle": "godzillian",
-	"instagram": "heisenbergs_being"
-     },
 
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",

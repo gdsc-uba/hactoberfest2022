@@ -158,11 +158,17 @@ MahirJain_socials= {
   "likedin_handle": "Mahir Jain",
   "facebook": "",
   "telegram_handle": "@mahirJain"
-  }
+  },
 yokwejuste_socials= {
   "twitter_handle": "yokwejuste",
   "likedin_handle": "yokwejuste",
   "facebook": "yokwejuste5013",
   "telegram_handle": "@googledevz",
+},
+mritul_socials= {
+  "twitter_handle": "mritul___",
+  "likedin_handle": "mritul-senthilkumar",
+  "facebook": "",
+  "telegram_handle": "",
 },
 ]

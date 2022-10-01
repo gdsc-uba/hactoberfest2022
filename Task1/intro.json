@@ -44,5 +44,11 @@
     "github_handle": "Abdulkbk",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+    },
+    {
+        "name": "Renan Miranda",
+        "github_handle": "renanlmiranda",
+        "hacktoberfest_round": "second",
+        "role": ["contributor"]
+    }
 ]

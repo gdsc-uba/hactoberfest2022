@@ -114,6 +114,12 @@
     "role": ["contributor", "maintainer"]
   },
   {
+     "name": "Lando Momo Paul",
+   "github_handle": "lando-paul",
+   "hacktoberfest_round": "first"
+   "role": ["contributor"]
+  },
+  {
     "name": "Krishnapal Mori ",
     "github_handle": "Krishnapalmori301",
     "hacktoberfest_round": "first",

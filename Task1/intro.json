@@ -353,5 +353,11 @@
     "github_handle": "akwe-afriitech",
     "hacktoberfest_round": "second",
     "role": ["contributor maintainer"]
+  },
+  {
+    "name": "Ayush Raj",
+    "github_handle": "imyoungsparda",
+    "hacktoberfest_round": "First",
+    "role": ["contributor"]
   }
 ]

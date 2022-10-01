@@ -96,5 +96,11 @@
              "Maintainer"
     ]
     
+    },
+      {
+      "name": "Krishnapal Mori ",
+      "github_handle": "Krishnapalmori301",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
     }
 ]

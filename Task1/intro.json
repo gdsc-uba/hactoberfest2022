@@ -1,5 +1,13 @@
 [
     {
+        "name": "Rupali Haldiya",
+        "github_handle": "rupali-codes",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    },
+    {
         "name": "Yogesh Gaur",
         "github_handle": "imyogeshgaur",
         "hacktoberfest_round": "first",

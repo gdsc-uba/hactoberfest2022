@@ -36,6 +36,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Madhav Gupta",
+    "github_handle": "madhavgupta07",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
+  {
     "name": "Shubham",
     "github_handle": "shubh045",
     "hacktoberfest_round": "second",
@@ -116,7 +122,7 @@
   {
      "name": "Lando Momo Paul",
    "github_handle": "lando-paul",
-   "hacktoberfest_round": "first"
+   "hacktoberfest_round": "first",
    "role": ["contributor"]
   },
   {
@@ -181,6 +187,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Vaibhav Arora",
+    "github_handle": "VaibhavArora314",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Vansh Goel",
     "github_handle": "vansh-goel",
     "hacktoberfest_round": "first",
@@ -226,7 +238,7 @@
     "name": "SudhanshuSharma",
     "github_handle": "Sudhanshu-Sharma-22",
     "hacktoberfest_round": "first",
-    "role": ["contributor", "maintainer"]
+    "role": ["contributor"]
 
   },
   {
@@ -236,9 +248,63 @@
     "role": ["contributor"]
   },
   {
+
     "name": "Divyanshi Pal",
     "github_handle": "Divyanshi2408",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
+
+  {
+    "name": "Steve Yonkeu",
+    "github_handle": "yokwejuste",
+    "hacktoberfest_round": "third",
+    "role": ["contributor", "maintainer"]
+  },
+  {
+    "name": "aditya singh",
+    "github_handle": "adrzxxx",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Ngong Marcel",
+    "github_handle": "Marcel-star-ctrl",
+    "hacktoberfest_round": "second",
+    "role": [
+      "maintainer",
+      "contributor"
+    ]
+  },
+  {
+    "name": "Adrian Gaile P. Singh",
+    "github_handle": "codedrian",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Nandini Gangadharan",
+    "github_handle": "Nandini-13",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Mritul Senthilkumar",
+    "github_handle": "mritul",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Yash Gupta",
+    "github_handle": "yashg-116",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Mousam pandey",
+    "github_handle": "Mousam00",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  }
+
 ]

@@ -175,12 +175,6 @@
     "role": ["contributor"]
   },
   {
-   "name": "Lando Momo Paul",
-   "github_handle": "lando-paul",
-   "hacktoberfest_round": "first"
-   "role": ["contributor"]
-  },
-  {
     "name": "Vansh Goel",
     "github_handle": "vansh-goel",
     "hacktoberfest_round": "first",
@@ -197,5 +191,11 @@
     "github_handle": "petraAG",
     "hacktoberfest_round": "second",
     "role": ["contributor"]
+  },
+  {
+  "name":"vishal singh",
+  "github_handle":"impetus007",
+  "hacktoberfest_round":"second",
+  "role":["contributor"]
   },
 ]

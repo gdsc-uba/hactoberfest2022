@@ -86,5 +86,15 @@
       "github_handle": "ola-nishant",
       "hacktoberfest_round": "first",
       "role": ["contributor"]
+    },
+    {
+    "name": "Abongwa Bonalais Amahnui",
+    "github_handle": "Burnleydev1",
+    "hacktoberfest_round": "third",
+    "role":[
+             "contributor"
+             "Maintainer"
+    ]
+    
     }
 ]

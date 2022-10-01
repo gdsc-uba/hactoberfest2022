@@ -113,5 +113,24 @@ dibyajittripathy_socials = {
     "likedin_handle": "nfon-andrew-7703a11a0",
     "facebook": " ",
     "telegram_handle": "SnrAndy",
-},		
+},
+	 petraAG_socials = {
+    "twitter_handle": "agienpetra",
+    "likedin_handle": "agienpetra",
+    "facebook": "agienpetra ",
+    "telegram_handle": "PDoc",
+},	
+{
+impetus007_socials = {
+  "twitter_handle": "Vishal_it_is",
+  "likedin_handle": "impetus",
+  "facebook": "vishal2219singh",
+  "telegram_handle": "",
+},
+fisher_socials = {
+  "twitter_handle": "fishermonk0",
+  "likedin_handle": "fishermonk",
+  "facebook": "fishermonk",
+  "telegram_handle": "@fish4443",
+},
 ]

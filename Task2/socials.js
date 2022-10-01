@@ -59,4 +59,10 @@
 	"instagram": "amanfangeria",
 	"telegram_handle": "randombeo"
   },
+olanishant_socials = {
+  "twitter_handle": "NishantOla22",
+  "likedin_handle": "nishant-ola-490712228",
+  "instagram": "nishant_ola",
+  "telegram_handle": "nishant_ola22",
+},
 ]

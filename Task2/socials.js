@@ -208,4 +208,10 @@ isaiah0914_socials= {
   "instagram": "isaiah_nkemboh",
   "facebook" : "Isaiah Nkemboh",
 }, 
+  Fotsingboris_socials = {
+    "twitter_handle": "Fotsingboris",
+    "likedin_handle": "Fotsingboris Mathieu",
+    'facebook': "Fotsing Tchoupe",
+    "telegram_handle": "",
+  }
 ] 

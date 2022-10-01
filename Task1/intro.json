@@ -12,6 +12,12 @@
     "role": ["contributor", "maintainer"]
   },
   {
+    "name": "Abhinab Pratap Singh Chauhan",
+    "github_handle": "generalchauhan",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Rupali Haldiya",
     "github_handle": "rupali-codes",
     "hacktoberfest_round": "first",
@@ -148,5 +154,24 @@
     "github_handle": "kshitijv256",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  {
+    "name": "Nfon Andrew",
+    "github_handle": "andrew21-mch",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
+  },
+  
+  {
+    "name": "Ravi",
+    "github_handle": "guptaravi540",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Nisha Chawla",
+    "github_handle": "NishaChawla18",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
 ]

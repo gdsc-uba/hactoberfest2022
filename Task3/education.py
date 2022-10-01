@@ -28,5 +28,6 @@
     ["University of Engineering and Management", "B.Tech", "2020", "present"],
     ["University of Bamenda", "NAHPI", "2019", "present"],
     ["Groupe scolaire la manne", "Advanced level", "2015", "2020"],
-    ["Kcc Institute of Technology and Management", "Bachelor of Technology", "2021", "present"], 
+    ["Kcc Institute of Technology and Management", "Bachelor of Technology", "2021", "present"],
+    ["university of bamenda", "Bachelor of engineering", "2019", "present"],
 ]

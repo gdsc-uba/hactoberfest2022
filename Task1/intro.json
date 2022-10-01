@@ -1,5 +1,11 @@
 [
   {
+    "name": "Shubhankar Shandilya",
+    "github_handle": "shubhankar-shandilya-india",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
     "hacktoberfest_round": "second",

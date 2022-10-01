@@ -66,7 +66,7 @@
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
 },
-  amanfangeria980_socials={
+  amanfangeria980_socials = {
 	"twitter_handle": "aman_fangeria",
 	"linkedin_handle": "amanfangeria",
 	"instagram": "amanfangeria",
@@ -147,72 +147,79 @@ fisher_socials = {
   "facebook": "fishermonk",
   "telegram_handle": "@fish4443"
   },
-SudhanshuSharma_socials= {
+SudhanshuSharma_socials = {
   "twitter_handle": "Sudhanshu226922",
   "likedin_handle": "Sudhanshu Sharma",
   "facebook": "",
   "telegram_handle": "@cpt_n3m0_22",
 },
-MahirJain_socials= {
+MahirJain_socials = {
   "twitter_handle": "",
   "likedin_handle": "Mahir Jain",
   "facebook": "",
   "telegram_handle": "@mahirJain"
   },
-yokwejuste_socials= {
+yokwejuste_socials = {
   "twitter_handle": "yokwejuste",
   "likedin_handle": "yokwejuste",
   "facebook": "yokwejuste5013",
   "telegram_handle": "@googledevz",
 },
-adrzxxx_socials= {
+adrzxxx_socials = {
   "twitter_handle": "",
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
   }
-MahirJain_socials= {
+MahirJain_socials = {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
   "facebook": "",
   "telegram_handle": "@mahirJain"
   },
-hrishikesh_g_socials= {
+hrishikesh_g_socials = {
     "twitter_handle": "hrishikesh123T",
     "likedin_handle": "hrishikesh-ghule-16b09822a",
     "facebook": "Hrishikesh Ghule",
     "telegram_handle": ""
     },
-mritul_socials= {
+mritul_socials = {
   "twitter_handle": "mritul___",
   "likedin_handle": "mritul-senthilkumar",
   "facebook": "",
   "telegram_handle": "",
 },
-YashGupta_socials= {
+YashGupta_socials = {
   "twitter_handle": "yashg_116",
   "likedin_handle": "yash-gupta-1106",
   "facebook": "Yash Gupta",
   "telegram_handle": "",
   },
-azohMu_socials= {
+azohMu_socials = {
   "twitter_handle": "Azoh",
   "likedin_handle": "Azoh",
   "facebook": "Azoh",
   "telegram_handle": "",
 },
-isaiah0914_socials= {
+isaiah0914_socials = {
   "twitter_handle": "IsaiahNkemboh",
   "likedin_handle": "Nkemboh isaiah",
   "telegram_handle": "@isaiahnkemboh",
   "instagram": "isaiah_nkemboh",
   "facebook" : "Isaiah Nkemboh",
   }, 
-AchaRhaah_socials= {
+AchaRhaah_socials = {
   "twitter_handle": "AchaAchubang",
   "likedin_handle": "Acha Achubang",
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Bembenk_socials = {
+  "twitter_handle": "",
+  "likedin_handle": "",
+  "telegram_handle": "@dmitry18",
+  "instagram": "",
+  "facebook" : "",
+}
 ] 

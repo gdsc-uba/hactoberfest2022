@@ -14,8 +14,9 @@
     ["State Institute of engineering and Technology ", "Nilokheri", "2018", "present"],
     ["Chitkara University", "Punjab", "2021", "present"],
     ["Ahmadu Bello University", "Bachelor of Engineering", "2018", "present"],
+    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
+    ["Institute Of Technical Education and Research","Electronics and Communication and Technology", "Bachelor of Technology", "2016", "2020"]
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
-
 ]

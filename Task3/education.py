@@ -20,5 +20,6 @@
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
-    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
+    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],    
+    ["jc bose university of science and technology","Bachelor of Technology","2021","present"],
 ]

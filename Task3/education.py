@@ -30,4 +30,5 @@
     ["Groupe scolaire la manne", "Advanced level", "2015", "2020"],
     ["Kcc Institute of Technology and Management", "Bachelor of Technology", "2021", "present"],
     ["university of bamenda", "Bachelor of engineering", "2019", "present"],
+    ["National Institure of Technology", "Bachelor of engineering", "2021", "present"],
 ]

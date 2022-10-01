@@ -95,5 +95,11 @@ dibyajittripathy_socials = {
       "likedin_handle": "abongwa-bonalais-a4a34a1a9",
       "facebook": "abongwa.bonalais",
       "telegram_handle": "fxprodigy",
-  },	
+  },
+  kshitijv256_socials = {
+    "twitter_handle": "",
+    "likedin_handle": "kshitijv256",
+    "instagram": "kshitij.v256",
+    "telegram_handle": "",
+ }
 ]

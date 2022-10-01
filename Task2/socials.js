@@ -54,12 +54,6 @@
       "facebook": "Ngumih Fien",
       "telegram_handle": "Fien"
     },
-    Kshitj10_socials = {
-      "twitter_handle": "",
-      "likedin_handle": "kshitij1099",
-      "facebook": "",
-      "telegram_handle": ""
-    },
     gouravchawla334_socials = {
       "twitter_handle": "",
       "likedin_handle": "gourav-chawla",
@@ -144,5 +138,11 @@ fisher_socials = {
   "likedin_handle": "fishermonk",
   "facebook": "fishermonk",
   "telegram_handle": "@fish4443",
+}
+SudhanshuSharma= {
+  "twitter_handle": "Sudhanshu226922",
+  "likedin_handle": "Sudhanshu Sharma",
+  "facebook": "",
+  "telegram_handle": "@cpt_n3m0_22",
 },
 ]

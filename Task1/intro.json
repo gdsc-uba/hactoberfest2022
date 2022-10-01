@@ -7,6 +7,15 @@
       "contributor"
     ]
   },
+    {
+    "name": "Baimam Boukar Jean Jacques",
+    "github_handle": "baimamboukar",
+    "hacktoberfest_round": "second",
+    "role":[
+             "contributor",
+             "maintainer"
+    ]
+    },
   {
     "name": "Rupali Haldiya",
     "github_handle": "rupali-codes",
@@ -149,6 +158,15 @@
     ]
   },
   {
+    "name": "Sonia Amehmbo",
+    "github_handle": "xennia316",
+    "hacktoberfest_round": "first",
+    "role": [
+      "maintainer",
+      "contributor"
+    ]
+  },
+  {
    "name": "Aman Fangeria",
    "github_handle": "amanfangeria980",
    "hacktoberfest_round": "first",
@@ -156,10 +174,19 @@
   },
     "name": "Dibyajit Tripathy",
     "github_handle": "DibyajitTripathy",
-    "hacktoberfest_round": "Third",
+    "hacktoberfest_round": "third",
     "role": [
       "contributor"
     ]
   },
+    {
+    "name": "Baimam Boukar Jean Jacques",
+    "github_handle": "baimamboukar",
+    "hacktoberfest_round": "second",
+    "role":[
+             "contributor",
+             "maintainer"]
+    
+    }
 ]
 

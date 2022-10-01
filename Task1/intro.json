@@ -198,13 +198,19 @@
     "hacktoberfest_round": "second",
     "role": ["contributor"]
   },
+   {
+    "name": "Ayush Sarode",
+    "github_handle": "AyushSarode",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
   {
     "name": "Joydeep Mallick",
     "github_handle": "JoydeepMallick",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
    },
-{
+  {
   "name":"vishal singh",
   "github_handle":"impetus007",
   "hacktoberfest_round":"second",
@@ -215,7 +221,6 @@
     "github_handle": "y)kw3ju5t3",
     "hacktoberfest_round": "second",
     "role": ["contributor"]
-
   },
   {
     "name": "SudhanshuSharma",

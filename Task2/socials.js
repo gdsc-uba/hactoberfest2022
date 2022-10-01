@@ -206,5 +206,12 @@ Ansh1693_socials={
   "likedin_handle": "anshgoyal16",
   "facebook": "Ansh Goyal",
   "telegram_handle": "",
+},
+isaiah0914_socials= {
+  "twitter_handle": "IsaiahNkemboh",
+  "likedin_handle": "Nkemboh isaiah",
+  "telegram_handle": "@isaiahnkemboh",
+  "instagram": "isaiah_nkemboh",
+  "facebook" : "Isaiah Nkemboh",
 }
 ]

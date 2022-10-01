@@ -54,6 +54,12 @@
       "facebook": "Ngumih Fien",
       "telegram_handle": "Fien"
     },
+    Kshitj10_socials = {
+      "twitter_handle": "",
+      "likedin_handle": "kshitij1099",
+      "facebook": "",
+      "telegram_handle": ""
+    },
     gouravchawla334_socials = {
       "twitter_handle": "",
       "likedin_handle": "gourav-chawla",

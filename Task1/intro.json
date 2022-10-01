@@ -174,4 +174,12 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
+  {
+            "name": "Joydeep Mallick",
+            "github_handle": "JoydeepMallick",
+            "hacktoberfest_round": "first",
+            "role": [
+                "contributor"
+            ]
+        },
 ]

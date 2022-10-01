@@ -224,5 +224,10 @@
     "role": ["contributor", "maintainer"]
 
   },
-   
+  {
+    "name": "Azoh Munoh",
+    "github_handle": "azohMu",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
 ]

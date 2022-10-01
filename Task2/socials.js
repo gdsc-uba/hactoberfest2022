@@ -215,4 +215,13 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Earl_Millen= {
+  "twitter_handle": "earlzeus237",
+  "likedin_handle": "Earl Millen Toh Akwe",
+  "telegram_handle": "@millentoh",
+  "instagram": "bosszeus237",
+  "facebook" : "Earl Millen",
+}, 
+
+	
 ] 

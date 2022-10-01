@@ -214,5 +214,14 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+CRAZYGEEKS04_socials= {
+  "twitter_handle": "HritikMaheshwari",
+  "likedin_handle": "Hritik Maheshwari",
+  "telegram_handle": "@Hritik_Maheshwari",
+  "instagram": "hritik maheshwari",
+  "facebook" : "hritik maheshwari",
+}
+	
+	
 ] 

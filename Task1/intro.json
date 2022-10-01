@@ -259,6 +259,12 @@
     "role": ["contributor", "maintainer"]
   },
   {
+    "name": "Devesh Singh",
+    "github_handle": "Devesh1602",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "aditya singh",
     "github_handle": "adrzxxx",
     "hacktoberfest_round": "first",

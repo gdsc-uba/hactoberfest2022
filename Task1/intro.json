@@ -114,6 +114,12 @@
     "role": ["contributor", "maintainer"]
   },
   {
+     "name": "Lando Momo Paul",
+   "github_handle": "lando-paul",
+   "hacktoberfest_round": "first"
+   "role": ["contributor"]
+  },
+  {
     "name": "Krishnapal Mori ",
     "github_handle": "Krishnapalmori301",
     "hacktoberfest_round": "first",
@@ -167,4 +173,56 @@
     "github_handle": "guptaravi540",
     "hacktoberfest_round": "third",
     "role": ["contributor"]
+  },
+  {
+    "name": "Hrishikesh Sunil Ghule",
+    "github_handle": "hrishikesh-g",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Vansh Goel",
+    "github_handle": "vansh-goel",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Kshitij kumar",
+    "github_handle": "Kshitij-10",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Agien Petra",
+    "github_handle": "petraAG",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
+  {
+    "name": "Joydeep Mallick",
+    "github_handle": "JoydeepMallick",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+   },
+{
+  "name":"vishal singh",
+  "github_handle":"impetus007",
+  "hacktoberfest_round":"second",
+  "role":["contributor"]
+  },
+  {
+    "name": "fisher Monk",
+    "github_handle": "y)kw3ju5t3",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+
+  },
+  {
+    "name": "SudhanshuSharma",
+    "github_handle": "Sudhanshu-Sharma-22",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
+
+  },
+   
 ]

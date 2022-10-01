@@ -170,7 +170,7 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
-  }
+  },
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -201,4 +201,10 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+Ansh1693_socials={
+  "twitter_handle": "goyalansh16",
+  "likedin_handle": "anshgoyal16",
+  "facebook": "Ansh Goyal",
+  "telegram_handle": "",
+}
 ]

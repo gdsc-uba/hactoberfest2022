@@ -137,9 +137,9 @@ fisher_socials = {
   "twitter_handle": "fishermonk0",
   "likedin_handle": "fishermonk",
   "facebook": "fishermonk",
-  "telegram_handle": "@fish4443",
-},
-SudhanshuSharma= {
+  "telegram_handle": "@fish4443"
+  },
+SudhanshuSharma_socials= {
   "twitter_handle": "Sudhanshu226922",
   "likedin_handle": "Sudhanshu Sharma",
   "facebook": "",
@@ -149,6 +149,12 @@ MahirJain_socials= {
   "twitter_handle": "",
   "likedin_handle": "Mahir Jain",
   "facebook": "",
-  "telegram_handle": "@mahirJain",
+  "telegram_handle": "@mahirJain"
+  }
+yokwejuste_socials= {
+  "twitter_handle": "yokwejuste",
+  "likedin_handle": "yokwejuste",
+  "facebook": "yokwejuste5013",
+  "telegram_handle": "@googledevz",
 },
 ]

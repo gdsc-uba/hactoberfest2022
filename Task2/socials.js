@@ -195,4 +195,10 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+nandini_socials= {
+  "twitter_handle": "gnandini13",
+  "likedin_handle": "Nandini",
+  "facebook": "",
+  "telegram_handle": "",
+}
 ]

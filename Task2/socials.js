@@ -127,6 +127,12 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
+lando-paul = {
+  "twitter_handle": "nasty_poems",
+  "likedin_handle": "lando-momo-paul-junior-76b413229",
+  "facebook": "",
+  "telegram_handle": "Fuckthesystem47",
+},
 fisher_socials = {
   "twitter_handle": "fishermonk0",
   "likedin_handle": "fishermonk",

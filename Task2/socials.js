@@ -10,5 +10,11 @@
       "likedin_handle": "hari-om-sharma-72249b244",
       "instagram": "hari_om_sharma",
       "telegram_handle": "iamhariom0228"
+  },
+  godwill_socials = {
+      "twitter_handle": "nyong_godwill",
+      "likedin_handle": "Nyong Godwill",
+      "facebook": "Nyong Godwill",
+      "telegram_handle": "godydev",
   }
 ]

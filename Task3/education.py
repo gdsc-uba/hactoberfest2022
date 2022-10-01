@@ -24,4 +24,5 @@
     ["University of Bamenda", "NAHPI", "2019", "present"],      
     ["Dr. BC Roy Engineering College","Bachelor of Technology","2021","present"],
     ["University of Bamenda", "NAHPI", "2019", "present"],
+    ["Groupe scolaire la manne", "Advanced level", "2015", "2020"],
 ]

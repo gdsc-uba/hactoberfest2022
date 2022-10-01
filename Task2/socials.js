@@ -119,6 +119,14 @@ dibyajittripathy_socials = {
     "likedin_handle": "agienpetra",
     "facebook": "agienpetra ",
     "telegram_handle": "PDoc",
+},
+{
+  VaibhavArora314_socials = {
+    "twitter_handle": "",
+    "likedin_handle": "Vaibhav Arora",
+    "facebook": "Vaibhav Arora",
+    "telegram_handle": "vaibhav"
+  }
 },	
 {
 impetus007_socials = {
@@ -150,11 +158,53 @@ MahirJain_socials= {
   "likedin_handle": "Mahir Jain",
   "facebook": "",
   "telegram_handle": "@mahirJain"
-  }
+  },
 yokwejuste_socials= {
   "twitter_handle": "yokwejuste",
   "likedin_handle": "yokwejuste",
   "facebook": "yokwejuste5013",
   "telegram_handle": "@googledevz",
 },
+adrzxxx_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "aditya-singh-04a74b19a",
+  "facebook": "",
+  "telegram_handle": ""
+  }
+MahirJain_socials= {
+  "twitter_handle": "hrishikesh123T",
+  "likedin_handle": "Mahir Jain",
+  "facebook": "",
+  "telegram_handle": "@mahirJain"
+  },
+hrishikesh_g_socials= {
+    "twitter_handle": "hrishikesh123T",
+    "likedin_handle": "hrishikesh-ghule-16b09822a",
+    "facebook": "Hrishikesh Ghule",
+    "telegram_handle": ""
+    },
+mritul_socials= {
+  "twitter_handle": "mritul___",
+  "likedin_handle": "mritul-senthilkumar",
+  "facebook": "",
+  "telegram_handle": "",
+},
+YashGupta_socials= {
+  "twitter_handle": "yashg_116",
+  "likedin_handle": "yash-gupta-1106",
+  "facebook": "Yash Gupta",
+  "telegram_handle": "",
+  },
+azohMu_socials= {
+  "twitter_handle": "Azoh",
+  "likedin_handle": "Azoh",
+  "facebook": "Azoh",
+  "telegram_handle": "",
+},
+Ansh1693_socials={
+  "twitter_handle": "goyalansh16",
+  "likedin_handle": "anshgoyal16",
+  "facebook": "Ansh Goyal",
+  "telegram_handle": "",
+}
 ]

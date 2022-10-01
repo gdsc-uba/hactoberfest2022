@@ -1,5 +1,5 @@
 [
-    {
+   {
         "name": "Steve Yonkeu",
         "github_handle": "yokwejuste",
         "hacktoberfest_round": "third",
@@ -7,5 +7,21 @@
             "maintainer",
             "contributor"
         ]
-    }
+    },
+  {
+        "name": "Yogesh Gaur",
+        "github_handle": "imyogeshgaur",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    },
+    {
+    "name": "Nyong Godwill",
+    "github_handle": "godsakani",
+    "hacktoberfest_round": "second",
+    "role": [
+        "contributor"
+    ]
+}
 ]

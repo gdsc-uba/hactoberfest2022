@@ -116,7 +116,7 @@
   {
      "name": "Lando Momo Paul",
    "github_handle": "lando-paul",
-   "hacktoberfest_round": "first"
+   "hacktoberfest_round": "first",
    "role": ["contributor"]
   },
   {
@@ -235,4 +235,10 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
+  {
+    "name": "Mahir Jain",
+    "github_handle": "LordMahir",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  }
 ]

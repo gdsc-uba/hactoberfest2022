@@ -169,9 +169,10 @@
     "role": ["contributor"]
   },
   {
-    "name": "Nisha Chawla",
-    "github_handle": "NishaChawla18",
+    "name": "Hrishikesh Sunil Ghule",
+    "github_handle": "hrishikesh-g",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  },
+  }
+
 ]

@@ -13,17 +13,16 @@ For task 1, follow these instructions below:
     ``json
         [
             {
-                "name": "Steve Yonkeu",
-                "github_handle": "yokwejuste",
+                "name": "Swami Raj",
+                "github_handle": "swami-raj",
                 "hacktoberfest_round": "third",
                 "role": [
-                    "maintainer",
                     "contributor"
                 ]
             },
             {
-                "name": "Fisher Monk",
-                "github_handle": "fisherman20183698",
+                "name": "swami raj",
+                "github_handle": "swami-raj",
                 "hacktoberfest_round": "first",
                 "role": [
                     "contributor"

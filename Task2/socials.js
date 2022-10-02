@@ -5,6 +5,7 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+	
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",
@@ -214,5 +215,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
+},
+PrashantChawla_socials= {
+  "twitter_handle": "Prashantchawla",
+  "likedin_handle": "Prashant Chawla",
+  "telegram_handle": "@1Prashant",
+  "instagram": "@inone_dev",
+  "facebook" : "Prashant Chawla",
 }, 
 ] 

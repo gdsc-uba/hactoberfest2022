@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+MLesky_socials = {
+  "twitter_handle": "MbLespa",
+  "linkedin_handle": "Mbah Lesky",
+  "facebook": "Mbah Lesky",
+  "telegram_handle": "@Mlespa",
+  "instagram_handle": "mb_lespa"
+}
 ] 

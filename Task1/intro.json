@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  { 
+    "name":"Anubhav Chakraborty",
+    "github_handle":"AnubhavChakrabortynits",
+    "hacktoberfest_round":"first",
+    "role":["contributor"]
   }
 ]

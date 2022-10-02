@@ -214,5 +214,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+  }, 
+  Pragya2056_socials = {
+    "twitter_handle": "PragyaSapkota15",
+    "likedin_handle": "Pragya Sapkota",
+    "telegram_handle": "@Pragyasapkota",
+    "instagram": "_pragya_____",
+    "facebook" : "pragya.sapkota.142",
+},
 ] 

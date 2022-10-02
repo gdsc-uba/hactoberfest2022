@@ -3,11 +3,12 @@
 
 ## Description
 
-For this task all required information is in the [Task1](Task1) folder. Present yourself following the appropriate template.
+For this task, all required information is in the [Task1](Task1) folder. Present yourself following the appropriate template.
 
 ## Contribution
 
 For task 1, follow these instructions below:
+- On the Task 1 folder, enter into the intro.json
 - Add your details following the previous example.
 - Respect the Json formatting
     ``json
@@ -31,7 +32,8 @@ For task 1, follow these instructions below:
             }
         ]
         ``
-- Commit the change made and push
+- Commit your changes
+-Next Make a pull request by using this command on your terminal:
 
         ```bash
         git commit -m "feat: added <username> as contributor"
@@ -46,4 +48,4 @@ For task 1, follow these instructions below:
 
 To submit your task, create a pull request to this repository. You can find more information about how to create a pull request [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-- Done!
+- Hurray you just made your first pull request.

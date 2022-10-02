@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+itsOmSarraf_socials = {
+      "twitter_handle": "itsOmSarraf_",
+      "likedin_handle": "itsOmSarraf",
+      "instagram": "itsomsarraf",
+      "telegram_handle": "itsOmSarraf"
+  },
 ] 

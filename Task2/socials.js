@@ -205,6 +205,13 @@
     "instagram": "isaiah_nkemboh",
     "facebook": "Isaiah Nkemboh",
   },
+  vvk_socials = {
+    "twitter_handle": "",
+    "likedin_handle": "Tavish",
+    "telegram_handle": "",
+    "instagram": "",
+    "facebook": "Tavish",
+  },
   AchaRhaah_socials = {
     "twitter_handle": "AchaAchubang",
     "likedin_handle": "Acha Achubang",

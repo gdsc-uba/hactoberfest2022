@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Hardik_socials= {
+  "twitter_handle": "hardikpratapsi3",
+  "likedin_handle": "hardik-pratap-singh",
+  "telegram_handle": "@Hardik",
+  "instagram": "Hardik12",
+  "facebook" : "Hardik26",
+}, 
 ] 

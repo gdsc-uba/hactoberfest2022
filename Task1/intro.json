@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Yashash Pugalia",
+    "github_handle": "yashash1511",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
   }
 ]

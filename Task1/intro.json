@@ -359,5 +359,13 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  {
+    "name": "Nfon Jeannoel",
+    "github_handle": "nfonjeannoel",
+    "hacktoberfest_round": "second",
+    "role": [
+        "contributor"
+    ]
+}
 ]

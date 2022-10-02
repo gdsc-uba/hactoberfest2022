@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+TSG405_socials= {
+  "twitter_handle": "TSG405",
+  "likedin_handle": "TSG405",
+  "telegram_handle": "@TSG405",
+  "instagram": "TSG405",
+  "facebook" : "TSG405",
+}, 
 ] 

@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Edmond Ghislain Makolle",
+    "github_handle": "Edmond22-prog",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   }
 ]

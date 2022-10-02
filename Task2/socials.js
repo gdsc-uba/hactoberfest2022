@@ -220,6 +220,6 @@ MLesky_socials = {
   "linkedin_handle": "Mbah Lesky",
   "facebook": "Mbah Lesky",
   "telegram_handle": "@Mlespa",
-  "instagram_handle": "mb_lespa"
+  "instagram_handle": "mb_lespa",
 }
 ] 

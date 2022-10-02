@@ -215,4 +215,8 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+ishani_1255_socials= {
+  "twitter_handle": "siya-1255",
+  "likedin_handle": "Ishika Ishani",
+}, 
 ] 

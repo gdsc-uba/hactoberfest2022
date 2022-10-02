@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name":"Anshika Jain",
+    "github_handle":"anshika-18",
+    "hacktoberfest_round":"second",
+    "role":["contributor"]
   }
 ]

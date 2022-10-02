@@ -5,6 +5,12 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+    myselfdeepdas_socials = {
+	"twitter_handle": "myselfdeepdas",
+	"likedin_handle": "myselfdeepdas",
+	"telegram_handle": "myselfdeepdas",
+	"instagram": "myselfdeepdas"
+     },	
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",

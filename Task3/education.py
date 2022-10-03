@@ -15,5 +15,6 @@
     ["University of Bamenda", "Nahpi", "2019", "present"],
     ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],        
     ["university of bamenda", "Nahpi", "2019", "present"],
+    ["IIT Mandi", "B.Tech in CSE", "2021", "present"],
 
 ]

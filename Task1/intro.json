@@ -360,4 +360,10 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+  {
+    "name": "Rachit Ranka",
+    "github_handle": "rachit-ranka",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
 ]

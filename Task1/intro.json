@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  {
+    "name": "Vivek Garg",
+    "github_handle": "gargvivek2003",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
+  },
 ]

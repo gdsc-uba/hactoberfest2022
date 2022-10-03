@@ -40,4 +40,6 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["Indian Institute of Technology (BHU) Varanasu", "B.Tech in Electrical Engineering", "2020", "present"],
+
 ]

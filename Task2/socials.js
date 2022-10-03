@@ -30,6 +30,12 @@
         "facebook": "",
         "telegram_handle": "Shubh_am_05"
     },
+	 ashish-parjapat_socials = {
+        "twitter_handle": "Ashishkalyan007",
+        "linkedin_handle": "ashish kumar",
+        "facebook": "ashish.kalyan007",
+        "telegram_handle": "Ashish Kumar"
+    },
   iamhariom0228_socials = {
       "twitter_handle": "i_am_hariom_",
       "likedin_handle": "hari-om-sharma-72249b244",

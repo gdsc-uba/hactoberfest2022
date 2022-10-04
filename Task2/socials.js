@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Akashiutchiha_socials= {
+  "twitter_handle": "ndongmochrist",
+  "likedin_handle": "Ndongmo christian",
+  "telegram_handle": "@Ndongchrist",
+  "instagram": "ndongmochristian1",
+  "facebook" : "Akashi Utchiha",
+}
 ] 

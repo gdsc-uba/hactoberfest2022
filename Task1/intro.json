@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Robi Maulana",
+    "github_handle": "robimaulana321",
+    "hacktoberfest_round": "second",
+    "role": ["contributor", "maintainer"]
   }
 ]

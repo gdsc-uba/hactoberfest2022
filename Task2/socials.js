@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Prabhu_socials= {
+  "twitter_handle": "PrabhuLitu_2003",
+  "likedin_handle": "Prabhu Prasad Penthoi",
+  "instagram": "i_am-freak-treat",
+  "facebook" : "Prabhu Litu",
+} 
 ] 

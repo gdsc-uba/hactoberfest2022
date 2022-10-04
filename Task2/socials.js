@@ -206,13 +206,14 @@ isaiah0914_socials= {
   "likedin_handle": "Nkemboh isaiah",
   "telegram_handle": "@isaiahnkemboh",
   "instagram": "isaiah_nkemboh",
-  "facebook" : "Isaiah Nkemboh",
+  "facebook" : "Isaiah Nkemboh"
   }, 
-AchaRhaah_socials= {
-  "twitter_handle": "AchaAchubang",
-  "likedin_handle": "Acha Achubang",
-  "telegram_handle": "@Acha Rha'ah",
-  "instagram": "Acha Rha'ah",
-  "facebook" : "Acha Rha'ah",
-}, 
+
+shivangi-3302_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Shivangi kumari",
+  "telegram_handle": "@Shivangi",
+  "instagram": "_nebulous_3",
+  "facebook" : ""
+  }
 ] 

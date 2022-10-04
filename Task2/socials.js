@@ -220,6 +220,5 @@ Akashiutchiha_socials= {
   "likedin_handle": "Ndongmo christian",
   "telegram_handle": "@Ndongchrist",
   "instagram": "ndongmochristian1",
-  "facebook" : "Akashi Utchiha",
 }
 ] 

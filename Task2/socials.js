@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+	AchaRhaah_socials= {
+  "twitter_handle": "its_Raj_Soni",
+  "likedin_handle": "raj-kr-soni",
+  "telegram_handle": "@codeitguys",
+  "instagram": "its_raj_soni_",
+  "facebook" : "RájSõñí",
+}
 ] 

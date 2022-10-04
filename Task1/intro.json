@@ -88,13 +88,17 @@
       "role": ["contributor"]
     },
     {
+      "name": "Akshay Tomar",
+      "github_handle": "akshaytomars",
+      "hacktoberfest_round": "first",
+      "role": ["contributor"]
+    },
+    {
     "name": "Abongwa Bonalais Amahnui",
     "github_handle": "Burnleydev1",
     "hacktoberfest_round": "third",
-    "role":[
-             "contributor"
-             "Maintainer"
-    ]
+    "role":["contributor",
+             "Maintainer"]
     },
     {
             "name": "Suraj Kumar",

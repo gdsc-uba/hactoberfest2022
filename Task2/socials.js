@@ -128,7 +128,7 @@ dibyajittripathy_socials = {
     "telegram_handle": "vaibhav"
   }
 },	
-{
+
 impetus007_socials = {
   "twitter_handle": "Vishal_it_is",
   "likedin_handle": "impetus",
@@ -170,7 +170,7 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
-  }
+  },
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",

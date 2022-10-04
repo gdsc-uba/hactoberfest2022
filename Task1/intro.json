@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Prabhu Prasad Penthoi",
+    "github_handle": "PRABHU-OFFICIAL",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   }
 ]

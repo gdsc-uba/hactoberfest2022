@@ -359,5 +359,13 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Vipul Wakode",
+        "github_handle": "vipulwakode",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
   }
 ]

@@ -201,6 +201,27 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+
+isaiah0914_socials= {
+  "twitter_handle": "IsaiahNkemboh",
+  "likedin_handle": "Nkemboh isaiah",
+  "telegram_handle": "@isaiahnkemboh",
+  "instagram": "isaiah_nkemboh",
+  "facebook" : "Isaiah Nkemboh",
+  }, 
+AchaRhaah_socials= {
+  "twitter_handle": "AchaAchubang",
+  "likedin_handle": "Acha Achubang",
+  "telegram_handle": "@Acha Rha'ah",
+  "instagram": "Acha Rha'ah",
+  "facebook" : "Acha Rha'ah",
+}, 
+aachal28_socials = {
+  "twitter_handle": "aachal28",
+  "likedin_handle": "aachalpardeshi",
+  "facebook": "aachal",
+  "telegram_handle": "aachal28"
+},
 Ansh1693_socials={
   "twitter_handle": "goyalansh16",
   "likedin_handle": "anshgoyal16",
@@ -214,3 +235,4 @@ Ansh1693_socials={
       "telegram_handle": "Antia V",
   }	
 ]
+

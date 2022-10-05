@@ -359,5 +359,13 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  {
+        "name": "Aachal Pardeshi",
+        "github_handle": "aachal28",
+        "hacktoberfest_round": "first",
+        "role": [
+            "contributor"
+        ]
+    }
 ]

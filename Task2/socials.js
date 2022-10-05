@@ -65,7 +65,7 @@
   	"likedin_handle": "abdulkbk",
   	"instagram": "Dev_zeal",
   	"telegram_handle": "abd_kbk",
-},
+  },
   amanfangeria980_socials={
 	"twitter_handle": "aman_fangeria",
 	"linkedin_handle": "amanfangeria",
@@ -120,22 +120,21 @@ dibyajittripathy_socials = {
     "facebook": "agienpetra ",
     "telegram_handle": "PDoc",
 },
-{
+
   VaibhavArora314_socials = {
     "twitter_handle": "",
     "likedin_handle": "Vaibhav Arora",
     "facebook": "Vaibhav Arora",
     "telegram_handle": "vaibhav"
-  }
-},	
-{
+  },	
+  
 impetus007_socials = {
   "twitter_handle": "Vishal_it_is",
   "likedin_handle": "impetus",
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
-lando-paul = {
+lando_paul = {
   "twitter_handle": "nasty_poems",
   "likedin_handle": "lando-momo-paul-junior-76b413229",
   "facebook": "",
@@ -170,7 +169,7 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
-  }
+  },
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -214,5 +213,11 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
+}, 
+ noutcheu1_socials= {
+  "twitter_handle": "noutcheu1",
+  "likedin_handle": "noutcheu1",
+  "telegram_handle": "@the_libbrain",
+  "tiktok_handle" : "noutcheu1",
 }, 
 ] 

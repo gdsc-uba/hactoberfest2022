@@ -218,7 +218,7 @@ AchaRhaah_socials= {
  noutcheu1_socials= {
   "twitter_handle": "noutcheu1",
   "likedin_handle": "noutcheu1",
-  "telegram_handle": "the_libbrain",
+  "telegram_handle": "@the_libbrain",
   "tiktok_handle" : "noutcheu1",
 }, 
 ] 

@@ -32,7 +32,7 @@
     ["university of bamenda", "Bachelor of engineering", "2019", "present"],
     ["National Institure of Technology", "Bachelor of engineering", "2021", "present"],
     ["Government College of Engineering nagpur", "Bachelor of Technology", "2020", "present"],
-    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
+    ["University School of Information, Communication and Technology", "Bachelor of Technology","B.tech MAE", "2021", "present"],
     ["vellore institute of technology","bachelor of engineering " , "2020" ,"present"],
     ["university of bamenda", "Nahpi", "2019", "present"],
     ["Indian Institute of Information Technology Allahabad", "BTech", "2021", "present"],
@@ -40,4 +40,5 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["Dr. Akhilesh Das Gupta Institute of Technology and Management", "2017","2021"],
 ]

@@ -40,4 +40,5 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["Shri Ramdeobaba College of ENgineering and Management Nagpur","2020","present"],
 ]

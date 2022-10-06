@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+PurveshPatil_socials= {
+  "twitter_handle": "Purveh86312958",
+  "likedin_handle": "Purvesh Patil",
+  "telegram_handle": "@mrpurvesh7",
+  "instagram": "_mr.purvesh_",
+  "facebook" : "NA",
+}, 
 ] 

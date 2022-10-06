@@ -215,4 +215,9 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+mittalkanishka_socials= {
+  "twitter_handle": "KanishkaMittal_",
+  "likedin_handle": "kanishka-mittal",
+  "instagram": "kanishkamittal_",
+}
 ] 

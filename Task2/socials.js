@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+ Pranav_socials= {
+  "twitter_handle": "pranavintech",
+  "likedin_handle": "pranavintech",
+  "telegram_handle": "",
+  "instagram": "pranavishigh",
+  "facebook" : "",
+}
 ] 

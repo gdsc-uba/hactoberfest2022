@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+	komal_socials= {
+  "twitter_handle": "TechEra41746442",
+  "likedin_handle": "komal-swami-4a539117a",
+  "telegram_handle": "komalswami",
+  "instagram": " ",
+  "facebook" : " ",
+}, 
 ] 

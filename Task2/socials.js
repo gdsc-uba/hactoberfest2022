@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+SaraFatima_Socials={
+	"twitter_handle":"SaraFatima",
+	"linkedin_handle":"Sara Fatima",
+	"telegram_handle":"@ Sara",
+	"instagram_handle":"Sanafatima5548",
+},
 ] 

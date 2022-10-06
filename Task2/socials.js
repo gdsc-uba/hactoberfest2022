@@ -215,4 +215,9 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+krishna050702_socials= {
+  "twitter_handle": "Krishna050702",
+  "likedin_handle": "krishna-mundada",
+  "instagram": "_05.krishna",
+}, 	
 ] 

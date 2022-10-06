@@ -212,5 +212,11 @@ Ansh1693_socials={
       "likedin_handle": "Kimbeng Faith Antia",
       "facebook": "Valencia Faith Kimbeng",
       "telegram_handle": "Antia V",
-  }	
+  },
+  sumyak_socials = {
+      "twitter_handle": "Sumyak0511",
+      "likedin_handle": "Sumyak-Jain",
+      "facebook": "Sumyak0511",
+      "telegram_handle": "Sumyak0511",
+  }		
 ]

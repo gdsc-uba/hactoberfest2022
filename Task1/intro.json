@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  {
+    "name": "Parakh Maheshwari",
+    "github_handle": "parakh2204",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
+  },
 ]

@@ -171,6 +171,9 @@ adrzxxx_socials= {
   "facebook": "",
   "telegram_handle": ""
   },
+
+  }
+
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -201,6 +204,7 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+
 isaiah0914_socials= {
   "twitter_handle": "IsaiahNkemboh",
   "likedin_handle": "Nkemboh isaiah",
@@ -223,3 +227,18 @@ Moons_socials= {
   "facebook" : "Vaibhav Singh",
 }
 ] 
+
+Ansh1693_socials={
+  "twitter_handle": "goyalansh16",
+  "likedin_handle": "anshgoyal16",
+  "facebook": "Ansh Goyal",
+  "telegram_handle": "",
+},
+ faith_socials = {
+      "twitter_handle": "valencia20033",
+      "likedin_handle": "Kimbeng Faith Antia",
+      "facebook": "Valencia Faith Kimbeng",
+      "telegram_handle": "Antia V",
+  }	
+]
+

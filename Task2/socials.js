@@ -135,7 +135,7 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
-lando-paul = {
+lando_paul = {
   "twitter_handle": "nasty_poems",
   "likedin_handle": "lando-momo-paul-junior-76b413229",
   "facebook": "",
@@ -170,7 +170,10 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
+  },
+
   }
+
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -201,6 +204,30 @@ azohMu_socials= {
   "facebook": "Azoh",
   "telegram_handle": "",
 },
+
+isaiah0914_socials= {
+  "twitter_handle": "IsaiahNkemboh",
+  "likedin_handle": "Nkemboh isaiah",
+  "telegram_handle": "@isaiahnkemboh",
+  "instagram": "isaiah_nkemboh",
+  "facebook" : "Isaiah Nkemboh",
+  }, 
+AchaRhaah_socials= {
+  "twitter_handle": "AchaAchubang",
+  "likedin_handle": "Acha Achubang",
+  "telegram_handle": "@Acha Rha'ah",
+  "instagram": "Acha Rha'ah",
+  "facebook" : "Acha Rha'ah",
+},
+Moons_socials= {
+  "twitter_handle": "runtime_error",
+  "likedin_handle": "Vaibhav Singh",
+  "telegram_handle": "@Vaibhav",
+  "instagram": "an_ashen_haired_one",
+  "facebook" : "Vaibhav Singh",
+}
+] 
+
 Ansh1693_socials={
   "twitter_handle": "goyalansh16",
   "likedin_handle": "anshgoyal16",
@@ -214,3 +241,4 @@ Ansh1693_socials={
       "telegram_handle": "Antia V",
   }	
 ]
+

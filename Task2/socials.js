@@ -135,7 +135,7 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
-lando-paul = {
+landopaul_socials = {
   "twitter_handle": "nasty_poems",
   "likedin_handle": "lando-momo-paul-junior-76b413229",
   "facebook": "",
@@ -214,5 +214,11 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+ Dancentcee_socials = {
+   "twitter_handle": "daniel chidi",
+   "likedin_handle": "Chidiebere Okafor",
+   "telegram_handle": "Daniel Okafor",
+   "facebook": "Daniel Chidi"
+ }
 ] 

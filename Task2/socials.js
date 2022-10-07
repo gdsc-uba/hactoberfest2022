@@ -119,6 +119,14 @@ dibyajittripathy_socials = {
     "likedin_handle": "agienpetra",
     "facebook": "agienpetra ",
     "telegram_handle": "PDoc",
+},
+{
+  VaibhavArora314_socials = {
+    "twitter_handle": "",
+    "likedin_handle": "Vaibhav Arora",
+    "facebook": "Vaibhav Arora",
+    "telegram_handle": "vaibhav"
+  }
 },	
 {
 impetus007_socials = {
@@ -127,7 +135,7 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
-lando-paul = {
+lando_paul = {
   "twitter_handle": "nasty_poems",
   "likedin_handle": "lando-momo-paul-junior-76b413229",
   "facebook": "",
@@ -150,11 +158,68 @@ MahirJain_socials= {
   "likedin_handle": "Mahir Jain",
   "facebook": "",
   "telegram_handle": "@mahirJain"
-  }
+  },
 yokwejuste_socials= {
   "twitter_handle": "yokwejuste",
   "likedin_handle": "yokwejuste",
   "facebook": "yokwejuste5013",
   "telegram_handle": "@googledevz",
 },
-]
+adrzxxx_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "aditya-singh-04a74b19a",
+  "facebook": "",
+  "telegram_handle": ""
+  },
+MahirJain_socials= {
+  "twitter_handle": "hrishikesh123T",
+  "likedin_handle": "Mahir Jain",
+  "facebook": "",
+  "telegram_handle": "@mahirJain"
+  },
+hrishikesh_g_socials= {
+    "twitter_handle": "hrishikesh123T",
+    "likedin_handle": "hrishikesh-ghule-16b09822a",
+    "facebook": "Hrishikesh Ghule",
+    "telegram_handle": ""
+    },
+mritul_socials= {
+  "twitter_handle": "mritul___",
+  "likedin_handle": "mritul-senthilkumar",
+  "facebook": "",
+  "telegram_handle": "",
+},
+YashGupta_socials= {
+  "twitter_handle": "yashg_116",
+  "likedin_handle": "yash-gupta-1106",
+  "facebook": "Yash Gupta",
+  "telegram_handle": "",
+  },
+azohMu_socials= {
+  "twitter_handle": "Azoh",
+  "likedin_handle": "Azoh",
+  "facebook": "Azoh",
+  "telegram_handle": "",
+},
+isaiah0914_socials= {
+  "twitter_handle": "IsaiahNkemboh",
+  "likedin_handle": "Nkemboh isaiah",
+  "telegram_handle": "@isaiahnkemboh",
+  "instagram": "isaiah_nkemboh",
+  "facebook" : "Isaiah Nkemboh",
+  }, 
+AchaRhaah_socials= {
+  "twitter_handle": "AchaAchubang",
+  "likedin_handle": "Acha Achubang",
+  "telegram_handle": "@Acha Rha'ah",
+  "instagram": "Acha Rha'ah",
+  "facebook" : "Acha Rha'ah",
+},
+Moons_socials= {
+  "twitter_handle": "runtime_error",
+  "likedin_handle": "Vaibhav Singh",
+  "telegram_handle": "@Vaibhav",
+  "instagram": "an_ashen_haired_one",
+  "facebook" : "Vaibhav Singh",
+}
+] 

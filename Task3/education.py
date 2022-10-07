@@ -30,4 +30,16 @@
     ["Groupe scolaire la manne", "Advanced level", "2015", "2020"],
     ["Kcc Institute of Technology and Management", "Bachelor of Technology", "2021", "present"],
     ["university of bamenda", "Bachelor of engineering", "2019", "present"],
+    ["National Institure of Technology", "Bachelor of engineering", "2021", "present"],
+    ["Government College of Engineering nagpur", "Bachelor of Technology", "2020", "present"],
+    ["University School of Information, Communication and Technology", "Bachelor of Technology", "2021", "present"],
+    ["vellore institute of technology","bachelor of engineering " , "2020" ,"present"],
+    ["university of bamenda", "Nahpi", "2019", "present"],
+    ["Indian Institute of Information Technology Allahabad", "BTech", "2021", "present"],
+    ["Siantou Higher Institute of Technology", "B.Tech software Engineering", "2021", "present"],
+    ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
+    ["University Ninth of July","Bachelor of Engineering","2017","2021"],
+    ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["Indian Institute of Technology (BHU) Varanasu", "B.Tech in Electrical Engineering", "2020", "present"],
+
 ]

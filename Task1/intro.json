@@ -359,5 +359,14 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+
+
+  {
+        "name": "Rohit Kohli",
+        "github_handle": "rohitkoh123",
+        "hacktoberfest_round": "first",
+        "role": ["contributor"]
   }
+
 ]

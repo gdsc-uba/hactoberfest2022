@@ -360,4 +360,12 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+  {
+    "name": "Vinayak Singoriya",
+    "github_handle": "VinayakSingoriya",
+    "hacktoberfest_round": "first",
+    "role": [
+        "contributor"
+    ]
+}
 ]

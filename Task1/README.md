@@ -34,7 +34,8 @@ For task 1, follow these instructions below:
 - Commit the change made and push
 
         ```bash
-        git commit -m "feat: added <username> as contributor"
+             git commit -m "feat: added <username> as contributor" 
+
 
         git push -u
 

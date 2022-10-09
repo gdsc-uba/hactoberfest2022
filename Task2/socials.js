@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+MMVonnSeek_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Max Muller",
+  "telegram_handle": "",
+  "instagram": "vonnseek",
+  "facebook" : "",
+}, 
 ] 

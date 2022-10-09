@@ -29,6 +29,15 @@ For task 1, follow these instructions below:
                     "contributor"
                 ]
             }
+            [
+            {
+                "name": "Lakshay Singhal",
+                "github_handle": "plakshay",
+                "hacktoberfest_round": "first",
+                "role": [
+                    "maintainer",
+                    
+                ]
         ]
         ``
 - Commit the change made and push

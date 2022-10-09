@@ -32,6 +32,7 @@ For task 1, follow these instructions below:
         ]
         ``
 - Commit the change made and push
+- Changes In readme
 
         ```bash
         git commit -m "feat: added <username> as contributor"

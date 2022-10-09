@@ -215,4 +215,8 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Aayush_socials= {
+  "likedin_handle": "aayush-solanki-",
+   "github_handle":"AayushSolanki"  
+}, 
 ] 

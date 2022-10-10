@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+AbdulKabeer_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Shaik Abdul Kabeer",
+  "telegram_handle": "@Abdul Kabeer",
+  "instagram": "@Shaik_kabeer19",
+  "facebook" : "Shaik Abdul Kabeer",
+}, 
 ] 

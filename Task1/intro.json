@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+   {
+    "name": "Ishan Katoch",
+    "github_handle": "ishan-1010",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+    }
 ]

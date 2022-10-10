@@ -135,7 +135,7 @@ impetus007_socials = {
   "facebook": "vishal2219singh",
   "telegram_handle": "",
 },
-lando-paul = {
+lando_paul = {
   "twitter_handle": "nasty_poems",
   "likedin_handle": "lando-momo-paul-junior-76b413229",
   "facebook": "",
@@ -170,7 +170,7 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
-  }
+  },
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -215,4 +215,12 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Bhuvan_socials= {
+  "twitter_handle": "Bkadlas",
+  "likedin_handle": "BHUVAN U KADLAS",
+  "telegram_handle": "@BHUVAN U KADLAS",
+  "instagram": "bhuvankadlas1",
+  "facebook" : "bhuvankadlas1",
+},
+
 ] 

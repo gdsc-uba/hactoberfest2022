@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Bhuvan U Kadlas",
+    "github_handle": "bhuvan2002",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   }
 ]

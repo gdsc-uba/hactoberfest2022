@@ -11,6 +11,12 @@
 	"telegram_handle": "bsquarejj",
 	"instagram": "baimamboukar"
      },
+	roumodip_socials = {
+	
+	"likedin_handle": "Roumodip Das",
+	"telegram_handle": "Roumodip Das",
+	"instagram": "phantomisraj"
+     },
 
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",

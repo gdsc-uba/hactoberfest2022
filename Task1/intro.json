@@ -1,5 +1,11 @@
 [
   {
+    "name":"Subarna Pokharel",
+    "github_handle":"subarnapkrl",
+    "hacktoberfest_round":"first",
+    "role":["contributor"]
+  },
+  {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
     "hacktoberfest_round": "second",

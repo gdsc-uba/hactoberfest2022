@@ -5,6 +5,12 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+    Utkarsh_socials = {
+      "twitter_handle": "ImUtkarshMathur",
+      "likedin_handle": "iamutkarshmathur05",
+      "telegram_handle": "iamutkarshmathur",
+      "instagram": "iamutkarshmathur"
+  },
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",

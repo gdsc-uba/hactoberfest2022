@@ -355,6 +355,12 @@
     "role": ["contributor maintainer"]
   },
   {
+    "name": "Lokesh Rathore",
+    "github_handle": "Lokesh-Rathore",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
+  {
     "name": "Acha Rha'ah Achubang",
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",

@@ -215,4 +215,9 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Lokesh_socials= {
+  "likedin_handle": "lokesh-rathore-6a661321a",
+  "telegram_handle": "@Loca_2864",
+  "instagram": "its__loca_",
+},
 ] 

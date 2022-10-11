@@ -6,6 +6,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Utkarsh Mathur",
+    "github_handle": "MathurUtkarsh",
+    "hacktoberfest_round": "first",
+    "role": ["contributor", "maintainer"]
+  },
+  {
     "name": "Baimam Boukar Jean Jacques",
     "github_handle": "baimamboukar",
     "hacktoberfest_round": "second",

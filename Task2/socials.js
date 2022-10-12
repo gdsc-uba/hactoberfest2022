@@ -170,7 +170,7 @@ adrzxxx_socials= {
   "likedin_handle": "aditya-singh-04a74b19a",
   "facebook": "",
   "telegram_handle": ""
-  },
+},
 MahirJain_socials= {
   "twitter_handle": "hrishikesh123T",
   "likedin_handle": "Mahir Jain",
@@ -200,25 +200,12 @@ azohMu_socials= {
   "likedin_handle": "Azoh",
   "facebook": "Azoh",
   "telegram_handle": "",
-},
-isaiah0914_socials= {
-  "twitter_handle": "IsaiahNkemboh",
-  "likedin_handle": "Nkemboh isaiah",
-  "telegram_handle": "@isaiahnkemboh",
-  "instagram": "isaiah_nkemboh",
-  "facebook" : "Isaiah Nkemboh",
-  }, 
-AchaRhaah_socials= {
-  "twitter_handle": "AchaAchubang",
-  "likedin_handle": "Acha Achubang",
-  "telegram_handle": "@Acha Rha'ah",
-  "instagram": "Acha Rha'ah",
-  "facebook" : "Acha Rha'ah",
-}, 
-Akashiutchiha_socials= {
+ },
+ Akashiutchiha_socials= {
   "twitter_handle": "ndongmochrist",
   "likedin_handle": "Ndongmo christian",
   "telegram_handle": "@Ndongchrist",
   "instagram": "ndongmochristian1",
-}
-] 
+ }
+]
+

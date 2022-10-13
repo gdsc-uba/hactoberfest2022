@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Mounika_socials= {
+  "twitter_handle": "mounika_varam",
+  "likedin_handle": "mounika-varam-098831212",
+  "telegram_handle": "",
+  "instagram": "",
+  "facebook" : "",
+}, 
 ] 

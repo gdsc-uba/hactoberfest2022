@@ -24,6 +24,14 @@
     "role": ["contributor"]
   },
   {
+    "name": "Shashank Misal",
+    "github_handle": "ShashankMisal",
+    "hacktoberfest_round": "first",
+    "role": [
+      "contributor"
+    ]
+  },
+  {
     "name": "Yogesh Gaur",
     "github_handle": "imyogeshgaur",
     "hacktoberfest_round": "first",

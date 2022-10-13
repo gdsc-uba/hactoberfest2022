@@ -84,6 +84,10 @@ manjusha2912_socials = {
       "facebook": "",
       "telegram_handle": "",
   },
+  ShashankMisal_socials = {
+        "twitter_handle": "ShashankMisal",
+        "likedin_handle": "ShashankMisal",
+    },
 dibyajittripathy_socials = {
       "twitter_handle": "djWarrioR1997",
       "likedin_handle": "Dibyajit Tripathy",

@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+ShubhamKumar_socials= {
+  "twitter_handle": "_skar_07",
+  "likedin_handle": "Shubham Kumar",
+  "telegram_handle": "@Skar010",
+  "instagram": "_Skar_07",
+  "facebook" : "",
+}, 
 ] 

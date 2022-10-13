@@ -214,5 +214,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
+},
+	Divya_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Divya Bhukya",
+  "telegram_handle": "Divya",
+  "instagram": "divya_infinitesoul203",
+  "facebook" : "Pretty angel",
 }, 
 ] 

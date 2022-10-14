@@ -1,4 +1,10 @@
 [
+    arnavkul_socials = {
+        "twitter_handle": "",
+        "likedin_handle": "arnav-kulshrestha-learner",
+        "telegram_handle": "",
+        "instagram": "a_r_n_a__v"
+    },
     spykelionel_socials = {
         "twitter_handle": "spykelionel",
         "likedin_handle": "ndilionel6",

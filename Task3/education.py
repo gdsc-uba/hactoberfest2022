@@ -1,4 +1,6 @@
 [
+    ["Poornima College of Engineering", "B.Tech Computer Science", "2019", "present"],
+    ["Tilak Public School", "High School", "2018", "2019"],
     ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
     ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
     ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],

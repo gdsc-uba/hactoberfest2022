@@ -214,5 +214,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+        creater_shikha_socials = {
+            "twitter_handle": "@ShikhaS55977060 ",
+            "likedin_handle": "Shikha Soni",
+            "facebook": "Shikha Soni",
+            "telegram_handle": "Shikha Soni"
+        },
+    
 ] 

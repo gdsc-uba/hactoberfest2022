@@ -360,4 +360,12 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+  {
+    "name": "Kirti Saraf",
+    "github_handle": "kirtisaraf247",
+    "hacktoberfest_round": "first",
+    "role": [
+        "contributor"
+    ]
+}
 ]

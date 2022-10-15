@@ -359,5 +359,12 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
-]
+  },
+    {
+      "name": "Purva Rajyaguru",
+      "github_handle": "Purva2803",
+      "hacktoberfest_round": "second",
+      "role": ["contributor"]
+    }
+  ]
+

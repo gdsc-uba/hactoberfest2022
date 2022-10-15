@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+kirtisaraf247_socials = {
+  "twitter_handle": "kirtisaraf247",
+  "likedin_handle": "kirtisaraf247",
+  "facebook": "NA",
+  "telegram_handle": "kirtisaraf247"
+},
 ] 

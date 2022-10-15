@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+	AchaRhaah_socials= {
+  "twitter_handle": "Meuz Ndoye",
+  "likedin_handle": " Mame moussa Ndoye",
+  "telegram_handle": "@Meuz Ndoye",
+  "instagram": "Meuz Ndoye",
+  "facebook" : "Meuz ndoye",
+}, 
 ] 

@@ -219,5 +219,6 @@ Purva2803_socials={
   "twitter_handle": "Purva_28_03",
   "likedin_handle": "Purva Rajyaguru",
   "instagram": "purva_28_03",
-  "Github": "Purva2803"}
+  "Github": "Purva2803",
+}
 ] 

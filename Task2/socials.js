@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Nitesh_Socials= {
+  "twitter_handle": "NiteshBhaiya9",
+  "likedin_handle": "Nitesh Bhaiya",
+  "telegram_handle": "@nitesh",
+  "instagram": "itsnbbhumi___",
+  "facebook" : "Nitesh Bhaiya",
+}, 
 ] 

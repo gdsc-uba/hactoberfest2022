@@ -1,4 +1,5 @@
 [
+    ["Chandigarh University", "Bachelor Of Engineering", "2021", "2025"],
     ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
     ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
     ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],

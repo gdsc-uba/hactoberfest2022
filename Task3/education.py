@@ -1,4 +1,5 @@
 [
+     ["Vishwakarma Government Engineering College, Ahmedabad", "B.Tech, Electronics and communication Engineering", "2020", "present"],
     ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
     ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
     ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],

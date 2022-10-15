@@ -65,7 +65,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         git push -u
 
         ```
-      >> Note: For any PR submitted before 1<sup>st</sup> of October, submit it as a draft pull request. Only PR opened as from early october are accepted by Hacktoberfest team. Thanks for undestanding.
+      >> Note: For any PR submitted before 1<sup>st</sup> of October, submit it as a draft pull request. Only PR opened as from early october are accepted by Hacktoberfest team. Thanks for understanding.
     - Go to our your github and a pull request
 - [**Task 2 (Socials)**](./Task2/README.md)
 
@@ -168,7 +168,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         </body>
     </html>
     ```
-    - Save your changes, commit, push and mnake a pull request.
+    - Save your changes, commit, push and make a pull request.
     ```bash
     git commit -am "feat: added my techstack - yokwejuste"
 

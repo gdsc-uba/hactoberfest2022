@@ -1,8 +1,8 @@
 [
   {
-    "name": "Jaydeep Ghevariya",
-    "github_handle": "JYDP02",
-    "hacktoberfest_round": "second",
+    "name": "Kirti Saraf",
+    "github_handle": "kirtisaraf247",
+    "hacktoberfest_round": "first",
     "role": ["contributor"]
   },
   {
@@ -360,4 +360,10 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+  {
+    "name": "Kirti Saraf",
+    "github_handle": "kirtisaraf247",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
 ]

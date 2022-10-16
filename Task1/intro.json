@@ -355,6 +355,12 @@
     "role": ["contributor maintainer"]
   },
   {
+    "name": "Sohan Beniwal",
+    "github_handle": "sohan-beniwal",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
+  },
+  {
     "name": "Acha Rha'ah Achubang",
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",

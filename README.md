@@ -168,7 +168,7 @@ There are 4 Tasks available and each task will be considered as valid by the Hac
         </body>
     </html>
     ```
-    - Save your changes, commit, push and mnake a pull request.
+    - Save your changes, commit, push and make a pull request.
     ```bash
     git commit -am "feat: added my techstack - yokwejuste"
 

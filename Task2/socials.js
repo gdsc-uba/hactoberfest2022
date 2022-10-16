@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+HimanshuSInghal_socials= {
+  "twitter_handle": "Himanshu82685428",
+  "likedin_handle": "",
+  "facebook": "",
+  "telegram_handle": "",
+  },	
 ] 

@@ -359,5 +359,14 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Ayush Raghuwanshi",
+    "github_handle": "AyushRaghuvanshi",
+    "hacktoberfest_round": "first",
+    "role": [
+        "contributor"
+    ]
   }
+
 ]

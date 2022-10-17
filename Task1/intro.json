@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Shrishti Jain",
+    "github_handle": "Shrishti20706",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   }
 ]

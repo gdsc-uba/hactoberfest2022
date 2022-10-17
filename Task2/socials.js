@@ -215,4 +215,9 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+ Shrishti20706_socials= {
+  "twitter_handle": "@Ci3Jain",
+  "likedin_handle": "Shrishti Jain",
+  "telegram_handle": "Shrishti Jain",
+}
 ] 

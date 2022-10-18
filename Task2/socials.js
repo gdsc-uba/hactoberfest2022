@@ -214,5 +214,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+tanmaychk_socials= {
+  "twitter_handle": "tanmaychk",
+  "likedin_handle": "Tanmay Chakrabarty",
+  "telegram_handle": "@tanmaychk",
+  "instagram": "tanmaychk_",
+  "facebook" : "Tanmay Chakrabarty",
+  }, 
 ] 

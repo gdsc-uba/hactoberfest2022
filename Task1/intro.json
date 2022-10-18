@@ -193,6 +193,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Jay Patel",
+    "github_handle": "Jay100125",
+    "hactoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Vansh Goel",
     "github_handle": "vansh-goel",
     "hacktoberfest_round": "first",

@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Mohit Chachra",
+    "github_handle": "MohitChachra",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
   }
 ]

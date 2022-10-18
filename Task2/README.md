@@ -13,9 +13,10 @@ Here, all you need is put your social media handles as follows:
 
     ```bash
         git checkout master
-
-        git branch -M task2
     ```
+     ```bash
+        git branch -M task2
+     ```
 - Declare a variable for your socials as `<username>_socials`
 - Follow the defined structure
 ```javascript
@@ -39,7 +40,7 @@ Here, all you need is put your social media handles as follows:
         git commit -m "feat: added <username> socials"
 
         git push
-        ```
+        
 - Open a pull request from github.
 
 

@@ -360,4 +360,11 @@
     "hacktoberfest_round": "first",
     "role": ["contributor"]
   }
+    "role": [
+      "maintainer",
+      "contributor"
+    ]
+  },
+
+
 ]

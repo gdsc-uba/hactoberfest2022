@@ -40,4 +40,5 @@
     ["Vivekanand Education Society Institute of Technology","Bachelor of Engineering","2020","present"],
     ["University Ninth of July","Bachelor of Engineering","2017","2021"],
     ["university of Buea", "Faculty of Engineering and Technology", "2020", "present"],
+    ["ABV IIITM Gwalior", " IT + MBA 5 years Integrated course ", "2021", "present"]
 ]

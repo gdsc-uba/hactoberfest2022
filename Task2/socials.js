@@ -214,5 +214,11 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
+}, amaanp_socials= {
+  "twitter_handle": "amaanp",
+  "likedin_handle": "Amaan Patel",
+  "telegram_handle": "@amaan-p",
+  "instagram": "amaanp",
+  "facebook" : "Amaan Patel",
 }, 
 ] 

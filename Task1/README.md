@@ -10,7 +10,7 @@ For this task all required information is in the [Task1](Task1) folder. Present 
 For task 1, follow these instructions below:
 - Add your details following the previous example.
 - Respect the Json formatting
-    ```json
+    ``json
         [
             {
                 "name": "Steve Yonkeu",
@@ -30,7 +30,7 @@ For task 1, follow these instructions below:
                 ]
             }
         ]
-        ```
+        ``
 - Commit the change made and push
 
         ```bash

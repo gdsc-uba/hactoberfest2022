@@ -1,4 +1,10 @@
 [
+  spykelionel_socials = {
+    "twitter_handle": "Shivv71",
+    "likedin_handle": "shivampandey27",
+    "telegram_handle": "shivvam_io",
+    "instagram": "shivvam_71"
+},
     spykelionel_socials = {
         "twitter_handle": "spykelionel",
         "likedin_handle": "ndilionel6",

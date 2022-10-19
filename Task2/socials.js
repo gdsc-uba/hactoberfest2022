@@ -207,7 +207,12 @@ isaiah0914_socials= {
   "telegram_handle": "@isaiahnkemboh",
   "instagram": "isaiah_nkemboh",
   "facebook" : "Isaiah Nkemboh",
-  }, 
+  },
+Omkar071011_socials = {
+  "twitter_handle": "Omkar Sonawane",
+  "likedin_handle": "Omkar Sonawane",
+  "instagram": "omkarsonawane03"
+  },
 AchaRhaah_socials= {
   "twitter_handle": "AchaAchubang",
   "likedin_handle": "Acha Achubang",
@@ -215,4 +220,5 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+	
 ] 

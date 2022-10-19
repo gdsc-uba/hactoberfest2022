@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+MohdAdnan_socials= {
+  "twitter_handle": "adnanmohd15",
+  "likedin_handle": "mohd-adnan-2a0836167,
+  "telegram_handle": "@mohd Adn'an",
+  "instagram": "mohdadnan-786",
+  "facebook" : "Mohd Adnan",
+}, 
 ] 

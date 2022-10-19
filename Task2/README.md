@@ -31,6 +31,12 @@ Here, all you need is put your social media handles as follows:
             "likedin_handle": "topolo2211772",
             "facebook": "topolo0",
             "telegram_handle": ""
+        },
+        Vanshika-RJIT_socials ={
+             "twitter_handle": "VanshikaSikarw4",
+            "likedin_handle": "vanshika-s-540604185",
+            "facebook": "",
+            "telegram_handle": ""
         }
     ]
 ```

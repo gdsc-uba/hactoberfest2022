@@ -343,6 +343,12 @@
     "role": ["contributor"]
   },
   {
+    "name": "Atharva saraiya",
+    "github_handle": "Atharvasaraiya",
+    "hactoberfest_round": "first",
+    "role": ["contributor maintainer"]
+  },
+  {
     "name": "Kartik Singh",
     "github_handle": "kartikkc",
     "hacktoberfest_round": "first",

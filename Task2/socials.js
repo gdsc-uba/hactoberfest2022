@@ -147,6 +147,12 @@ fisher_socials = {
   "facebook": "fishermonk",
   "telegram_handle": "@fish4443"
   },
+Atharvasaraiya_socials= {
+	"twitter_handle": "Atharvasaraiya",
+	"likendin_handle": "Atharva Saraiya",
+	"facebook": "",
+	"telegram_handle": "@Atharva019",
+},
 SudhanshuSharma_socials= {
   "twitter_handle": "Sudhanshu226922",
   "likedin_handle": "Sudhanshu Sharma",

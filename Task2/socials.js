@@ -214,5 +214,10 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},  Kpraful_socials = {
+  "twitter_handle": "praful_katare",
+  "likedin_handle": "praful_katare",
+  "telegram_handle": "praful_katare",
+  "instagram": "praful_katare"
+} 
 ] 

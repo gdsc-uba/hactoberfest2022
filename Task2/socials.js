@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
-] 
+viperraghav_socials= {
+  "twitter_handle":"raghavu37260366",
+  "linkedin_handle": "raghavupadhyay",
+  "telegram_handle"::"",
+  "instagram": "raghav.exes",
+  "facebook": "",
+]

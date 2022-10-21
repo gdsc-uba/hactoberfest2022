@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+ Ayu5-h_socials = {
+	"twitter_handle": "ayushgawande",
+	"likedin_handle": "ayush gawande",
+	"telegram_handle": "@Ayu5_h",
+	"instagram": ""
+     },
 ] 

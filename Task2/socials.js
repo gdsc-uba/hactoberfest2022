@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+{
+  "twitter_handle":"chkrdhr_",
+  "linkedin_handle":"chakradhar ghute",
+  "instagram":"chkrdhr_",
+  "facebook":"chakradhar ghute"
+}
 ] 

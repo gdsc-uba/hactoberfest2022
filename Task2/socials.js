@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+PramodBobade_socials= {
+  "twitter_handle": "PramodBobade2",
+  "likedin_handle": "PramodBobade2",
+  "telegram_handle": "@PramodBobade",
+  "instagram": "pramodb_10",
+  "facebook" : "pramodbobade2",
+}
 ] 

@@ -215,7 +215,7 @@
       "instagram": "Acha Rha'ah",
       "facebook": "Acha Rha'ah",
     },
-    AchaRhaah_socials= {
+    TylerThietje_socials= {
       "twitter_handle": "TylerThietje",
       "likedin_handle": "Tyler Thietje",
       "instagram": "Airboater78",

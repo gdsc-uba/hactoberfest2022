@@ -1,4 +1,4 @@
-[
+  [
   {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
@@ -359,5 +359,12 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+   {
+    "name": "Vishnu Rathore",
+    "github_handle": "Rkvishnu",
+    "hacktoberfest_round": "first",
+    "role": ["contributor maintainor"]
   }
 ]
+

@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Sayantani Sarkar",
+    "github_handle": "Sayantani Sarkar",
+    "hacktoberfest_round":"first",
+    "role":["contributor"]
   }
 ]

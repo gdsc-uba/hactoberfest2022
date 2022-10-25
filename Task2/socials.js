@@ -1,4 +1,10 @@
-[
+[   
+     weblearner07_socials = {
+        "twitter_handle": "yokwejuste",
+        "likedin_handle": "prashantpukale09",
+        "facebook": "yokwejuste5013",
+        "telegram_handle": "prashant12"
+     },
     spykelionel_socials = {
         "twitter_handle": "spykelionel",
         "likedin_handle": "ndilionel6",

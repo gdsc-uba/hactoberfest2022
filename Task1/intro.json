@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Tushar Kumar",
+    "github_handle": "tushar-kumar",
+    "hacktoberfest_round": "third",
+    "role": ["contributor maintainer"]
   }
 ]

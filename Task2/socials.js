@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+YashGupta_socials= {
+  "twitter_handle": "Manmeeeeeet",
+  "likedin_handle": "manmeet-kaur",
+  "facebook": "",
+  "instagram": "manmeeeet",
+  "telegram_handle": "",
+  },
 ] 

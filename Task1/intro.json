@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
-  }
+  },
+  
+ { "name": "Biswajit Behera",
+  "github_handle": "Biswajit-Behera",
+  "hacktoberfest_round": "first",
+  "role": ["contributor"]
+ }
 ]

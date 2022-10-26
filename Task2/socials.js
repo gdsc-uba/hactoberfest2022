@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+divine016_socials= {
+  "twitter_handle": "kouts_CQ",
+  "likedin_handle": "Kouti Divine",
+  "telegram_handle": "Kouti Divine",
+  "instagram": "twinkouti",
+  "facebook" : "",
+}, 
 ] 

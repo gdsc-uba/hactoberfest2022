@@ -11,7 +11,12 @@
 	"telegram_handle": "bsquarejj",
 	"instagram": "baimamboukar"
      },
-
+     Tomin_Joy_socials = {
+      "twitter_handle": "Tomin-Joy",
+      "likedin_handle": "tominjoy",
+      "telegram_handle": "tominjoy",
+      "instagram": "tom.in._",
+         },
     rupali_codes_socials = {
         "twitter_handle": "rupali_codes",
         "likedin_handle": "rupali-codes",

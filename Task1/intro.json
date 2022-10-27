@@ -1,5 +1,11 @@
 [
   {
+    "name": "Tomin Joy",
+    "github_handle": "Tomin-Joy",
+    "hacktoberfest_round": "first",
+    "role": ["contributor"]
+  },
+  {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
     "hacktoberfest_round": "second",

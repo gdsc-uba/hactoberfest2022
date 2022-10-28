@@ -1,0 +1,19 @@
+    [
+        {
+            "name": "Steve Yonkeu",
+            "github_handle": "yokwejuste",
+            "hacktoberfest_round": "third",
+            "role": [
+                "maintainer",
+                "contributor"
+            ]
+        },
+        {
+            "name": "Mansi Kashyap",
+            "github_handle": "mansikashyap",
+            "hacktoberfest_round": "first",
+            "role": [
+                "contributor"
+            ]
+        }
+    ]

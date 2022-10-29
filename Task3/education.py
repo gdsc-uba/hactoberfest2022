@@ -1,5 +1,6 @@
 [
     ["University of Engineering and Management Jaipur", "B.Tech Computer Science", "2020", "present"],
+    ["Technocrat Institute of Engineering", "Bachelor Of Technology", "2019", "2023"],
     ["Krishna Engineering College", "Bachelor Of Technology", "2018", "2022"],
     ["The ICT University", "Bachelor of Science in Computer Science", "2020", "present"],
     ["Board of Technical Education", "Polytechnic Diploma", "2019", "2022"],

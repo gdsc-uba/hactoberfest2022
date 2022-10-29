@@ -1,5 +1,11 @@
 [
     spykelionel_socials = {
+        "twitter_handle": "joyin_mahmmad",
+        "likedin_handle": "joyinlaskar",
+        "telegram_handle": "Joyin_Mahmmad",
+        "instagram": "joyin_mahmmad"
+    },
+    spykelionel_socials = {
         "twitter_handle": "spykelionel",
         "likedin_handle": "ndilionel6",
         "telegram_handle": "spykelionel",

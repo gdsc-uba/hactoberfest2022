@@ -5,6 +5,12 @@
         "telegram_handle": "spykelionel",
         "instagram": "spykelionel"
     },
+    amul-code_socials = {
+	"twitter_handle": "amul1507",
+	"likedin_handle": "amul-1507",
+	"telegram_handle": "knitrous",
+	"instagram": "the_shutterbug_amul"
+     },
     baimamboukar_socials = {
 	"twitter_handle": "baimamjj",
 	"likedin_handle": "baimamboukar",

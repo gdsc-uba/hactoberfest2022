@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Nayanika12_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Nayanika Singha Chowdhury",
+  "facebook": "",
+  "telegram_handle": "",
+  "instagram": "nayanika_s_chowdhury"
+}
 ] 

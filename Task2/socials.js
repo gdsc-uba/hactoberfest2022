@@ -214,5 +214,12 @@ AchaRhaah_socials= {
   "telegram_handle": "@Acha Rha'ah",
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
-}, 
+},
+susanyeldo_socials= {
+  "twitter_handle": "",
+  "likedin_handle": "Susanna Yeldo",
+  "telegram_handle": "",
+  "instagram": "permanently_confused_soul",
+  "facebook" : "Susanna Yeldo",
+} 
 ] 

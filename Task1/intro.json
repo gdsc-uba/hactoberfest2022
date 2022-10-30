@@ -1,5 +1,12 @@
 [
   {
+    "name": "Sandeep Kumar",
+    "github_handle": "sktsandeep1",
+    "hacktoberfest_round": "one",
+    "role": ["contributor"]
+  },
+
+  {
     "name": "Jaydeep Ghevariya",
     "github_handle": "JYDP02",
     "hacktoberfest_round": "second",

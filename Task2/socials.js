@@ -215,4 +215,10 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+<Devdeep-J-S>_socials = {
+  "twitter_handle": "deedy0702",
+  "likedin_handle": "devdeep-shetranjiwala-4290b21ba",
+  "facebook": "Devdeep Shetranjiwala",
+  "telegram_handle": ""
+}
 ] 
